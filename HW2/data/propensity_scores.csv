@@ -1,0 +1,2053 @@
+paper,propensity_score
+Pitfalls of In-Domain Uncertainty Estimation and Ensembling in Deep Learning,0.3604855192454174
+An Inductive Bias for Distances: Neural Nets that Respect the Triangle Inequality,0.567842168524473
+Stochastic AUC Maximization with Deep Neural Networks,0.33432238131503383
+On the interaction between supervision and self-play in emergent communication,0.40264434925933545
+Towards Better Understanding of Adaptive Gradient Algorithms in Generative Adversarial Nets,0.33432238131503383
+TabFact: A Large-scale Dataset for Table-based Fact Verification,0.3639159992464472
+Keep Doing What Worked: Behavior Modelling Priors for Offline Reinforcement Learning,0.43605284319065146
+Scale-Equivariant Steerable Networks,0.4102191594651217
+Inductive and Unsupervised Representation Learning on Graph Structured Objects,0.29375353416335653
+Online and stochastic optimization beyond Lipschitz continuity: A Riemannian approach,0.36154015309914206
+HOPPITY: LEARNING GRAPH TRANSFORMATIONS TO DETECT AND FIX BUGS IN PROGRAMS,0.3122320533791469
+Learning to Retrieve Reasoning Paths over Wikipedia Graph for Question Answering,0.40559619698962945
+Drawing Early-Bird Tickets: Toward More Efficient Training of Deep Networks,0.3240346980013724
+Learning from Rules Generalizing Labeled Exemplars,0.4147667495966138
+Phase Transitions for the Information Bottleneck in Representation Learning,0.40304760152918284
+Model-based reinforcement learning for biological sequence design,0.3268037903228856
+GAT: Generative Adversarial Training for Adversarial Example Detection and Robust Classification,0.3429058413502731
+StructBERT: Incorporating Language Structures into Pre-training for Deep Language Understanding,0.3240410561806525
+Oblique Decision Trees from Derivatives of ReLU Networks,0.3654421163586098
+DBA: Distributed Backdoor Attacks against Federated Learning,0.3922919417122011
+Understanding and Improving Information Transfer in Multi-Task Learning,0.40485209958976065
+FSPool: Learning Set Representations with Featurewise Sort Pooling,0.3855177752159783
+RIDE: Rewarding Impact-Driven Exploration for Procedurally-Generated Environments,0.4090026218701704
+Counterfactuals uncover the modular structure of deep generative models,0.4271862371067012
+Neural Machine Translation with Universal Visual Representation,0.30921594655553003
+Once-for-All: Train One Network and Specialize it for Efficient Deployment,0.31068818086352756
+Learning Nearly Decomposable Value Functions Via Communication Minimization,0.27430574628547233
+Bridging Mode Connectivity in Loss Landscapes and Adversarial Robustness,0.22775058002349752
+The Break-Even Point on Optimization Trajectories of Deep Neural Networks,0.3560810839352743
+Empirical Studies on the Properties of Linear Regions in Deep Neural Networks,0.33254178307869986
+Learning to Group: A Bottom-Up Framework for 3D Part Discovery in Unseen Categories,0.4730151087229826
+Learning Compositional Koopman Operators for Model-Based Control,0.40393783191581295
+Meta-Learning without Memorization,0.46666937625947646
+Guiding Program Synthesis by Learning to Generate Examples,0.3731896461447098
+Truth or backpropaganda? An empirical investigation of deep learning theory,0.3247662106509097
+What Can Neural Networks Reason About?,0.4192475412880509
+U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation,0.2759818037716189
+Learning to Learn by Zeroth-Order Oracle,0.4320520383234086
+Lite Transformer with Long-Short Range Attention,0.28402843845117465
+Regularizing activations in neural networks via distribution matching with the Wasserstein metric,0.22979103357655745
+The Ingredients of Real World Robotic Reinforcement Learning,0.46985352485510773
+Relational State-Space Model for Stochastic Multi-Object Systems,0.23651503377834288
+Empirical Bayes Transductive Meta-Learning with Synthetic Gradients,0.26120380608910265
+Implicit Bias of Gradient Descent based Adversarial Training on Separable Data,0.332723593476935
+word2ket: Space-efficient Word Embeddings inspired by Quantum Entanglement,0.32921770350353946
+Towards Fast Adaptation of Neural Architectures with Meta Learning,0.2787983865673422
+Hamiltonian Generative Networks,0.4348795472493774
+Plug and Play Language Models: A Simple Approach to Controlled Text Generation,0.3235731438582607
+"Deep 3D Pan via local adaptive t-shaped"" convolutions with global and local adaptive dilations""",0.215098565854388
+Conservative Uncertainty Estimation By Fitting  Prior Networks,0.3366535319583351
+Mutual Information Gradient Estimation for  Representation Learning,0.31870515412091205
+Minimizing FLOPs to Learn Efficient Sparse Representations,0.3664172912550327
+Data-Independent Neural Pruning via Coresets,0.3221076611489934
+LEARNED STEP SIZE QUANTIZATION,0.44967351335541783
+Learning To Explore Using Active Neural SLAM,0.4566275506296558
+Towards Stabilizing Batch Statistics in Backward Propagation of Batch Normalization,0.36037390573866507
+Tensor Decompositions for Temporal Knowledge Base Completion,0.38869736876508565
+Generalization bounds for deep convolutional neural networks,0.2623462385420936
+Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples,0.4419107389905044
+Latent Normalizing Flows for Many-to-Many Cross-Domain Mappings,0.4493146601893861
+Robustness Verification for Transformers,0.28982460647755226
+Explain Your Move: Understanding Agent Actions Using Specific and Relevant Feature Attribution,0.43200126102386605
+AdvectiveNet: An Eulerian-Lagrangian Fluidic Reservoir for Point Cloud Processing     ,0.3335871390937616
+Batch-shaping for learning conditional channel gated networks,0.3477988356702359
+Provable robustness against all adversarial $l_p$-perturbations for $p\geq 1$,0.38877305861448413
+Distributionally Robust Neural Networks,0.40103741291376865
+Nesterov Accelerated Gradient and Scale Invariance for Adversarial Attacks,0.37642708725414503
+Fast Neural Network Adaptation via Parameter Remapping and Architecture Search,0.35708746718992207
+Understanding Generalization in Recurrent Neural Networks,0.3423862425336687
+Piecewise linear activations substantially shape the loss surfaces of neural networks,0.2313941849058467
+ReClor: A Reading Comprehension Dataset Requiring Logical Reasoning,0.3852837518579242
+Poly-encoders: Architectures and Pre-training Strategies for Fast and Accurate Multi-sentence Scoring,0.508649849739911
+Understanding the Limitations of Variational Mutual Information Estimators,0.35335255479448496
+A Baseline for Few-Shot Image Classification,0.3657696743768781
+Hierarchical Foresight: Self-Supervised Learning of Long-Horizon Tasks via Visual Subgoal Generation,0.407692235687061
+Pseudo-LiDAR++: Accurate Depth for 3D Object Detection in Autonomous Driving,0.44136764939494977
+V4D: 4D Convolutional Neural Networks for Video-level Representation Learning,0.2747392312810961
+Certified Defenses for Adversarial Patches,0.27759425076061367
+Chameleon: Adaptive Code Optimization for Expedited Deep Neural Network Compilation,0.337952864804829
+Semantically-Guided Representation Learning for Self-Supervised Monocular Depth,0.3175723305150883
+MetaPix: Few-Shot Video Retargeting,0.3839804202179054
+Lazy-CFR: fast and near-optimal regret minimization for extensive games with imperfect information,0.3638197005103861
+Neural Module Networks for Reasoning over Text,0.45313073780673685
+Shifted and Squeezed 8-bit Floating Point format for Low-Precision Training of Deep Neural Networks,0.29987018405950144
+ProxSGD: Training Structured Neural Networks under Regularization and Constraints,0.21038461742174183
+BayesOpt Adversarial Attack,0.35959033961941855
+Distance-Based Learning from Errors for Confidence Calibration,0.38175989163746815
+VL-BERT: Pre-training of Generic Visual-Linguistic Representations,0.3954702883909606
+Symplectic Recurrent Neural Networks,0.5009660773271645
+Learning to Coordinate Manipulation Skills via Skill Behavior Diversification,0.3912207957273841
+Learning Expensive Coordination: An Event-Based Deep RL Approach,0.279735059360219
+Rapid Learning or Feature Reuse? Towards Understanding the Effectiveness of MAML,0.45825455877666443
+Iterative energy-based projection on a normal data manifold for anomaly localization,0.21229146188819079
+A closer look at the approximation capabilities of neural networks,0.276331598431907
+Spectral  Embedding of Regularized Block Models,0.38747426747112407
+MMA Training: Direct Input Space Margin Maximization through Adversarial Training,0.2865176748396178
+Monotonic Multihead Attention,0.39339678027783836
+Learning representations for binary-classification without backpropagation,0.28248317709662185
+Action Semantics Network: Considering the Effects of Actions in Multiagent Systems,0.31060924354978875
+Finite Depth and Width Corrections to the Neural Tangent Kernel,0.2875654074728655
+What graph neural networks cannot learn: depth vs width,0.3721815468946619
+Neural Oblivious Decision Ensembles for Deep Learning on Tabular Data,0.3760105324939679
+Gradient $\ell_1$ Regularization for Quantization Robustness,0.4101998506288473
+PairNorm: Tackling Oversmoothing in GNNs,0.34620855441379383
+Cross-lingual Alignment vs Joint Training: A Comparative Study and A Simple Unified Framework,0.4225123294661061
+Generalization of Two-layer Neural Networks: An Asymptotic Viewpoint,0.3240701235361378
+LAMOL: LAnguage MOdeling for Lifelong Language Learning,0.2701347127754783
+Neural Stored-program Memory,0.26776021849987325
+BatchEnsemble: an Alternative Approach to Efficient Ensemble and Lifelong Learning,0.48781767584135144
+Neural Arithmetic Units,0.30492763807034423
+"To Relieve Your Headache of Training an MRF, Take AdVIL",0.2714322355976221
+State Alignment-based Imitation Learning,0.4691480395980499
+Influence-Based Multi-Agent Exploration,0.3378491702222566
+AE-OT: A NEW GENERATIVE MODEL BASED ON EXTENDED SEMI-DISCRETE OPTIMAL TRANSPORT,0.2879827885621068
+CoPhy: Counterfactual Learning of Physical Dynamics,0.35118307176431934
+Disentangling Factors of Variations Using Few Labels,0.2856877827030551
+Uncertainty-guided Continual Learning with Bayesian Neural Networks,0.46313766704604353
+Composing Task-Agnostic Policies with Deep Reinforcement Learning,0.33445493720896885
+Making Sense of Reinforcement Learning and Probabilistic Inference,0.39530582832899747
+The Logical Expressiveness of Graph Neural Networks,0.3246688891306791
+Language GANs Falling Short,0.4353814993485217
+Directional Message Passing for Molecular Graphs,0.3920169267508079
+A Target-Agnostic Attack on Deep Models: Exploiting Security Vulnerabilities of Transfer Learning,0.3332588626204983
+At Stability's Edge: How to Adjust Hyperparameters to Preserve Minima Selection in Asynchronous Training of Neural Networks?,0.45586539876839743
+Smoothness and Stability in GANs,0.3222617517937653
+Infinite-Horizon Differentiable Model Predictive Control,0.33312738801534586
+Observational Overfitting in Reinforcement Learning,0.4742998734173783
+Improved Sample Complexities for Deep Neural Networks and Robust Classification via an All-Layer Margin,0.39265546897758197
+SQIL: Imitation Learning via Reinforcement Learning with Sparse Rewards,0.44010671043935695
+Feature Interaction Interpretability: A Case for Explaining Ad-Recommendation Systems via Neural Interaction Detection,0.3108061328900181
+Selection via Proxy: Efficient Data Selection for Deep Learning,0.46067534064304055
+Padé Activation Units: End-to-end Learning of Flexible Activation Functions in Deep Networks,0.3607868172937709
+Lipschitz constant estimation of Neural Networks via sparse polynomial optimization,0.2700300433344243
+AMRL: Aggregated Memory For Reinforcement Learning,0.30763487952636087
+Memory-Based Graph Networks,0.4048101709039198
+One-Shot Pruning of Recurrent Neural Networks by Jacobian Spectrum Evaluation,0.38305122024439464
+Network Randomization: A Simple Technique for Generalization in Deep Reinforcement Learning,0.4269688560261496
+On Mutual Information Maximization for Representation Learning,0.4205424965882558
+Hypermodels for Exploration,0.3633894514980807
+On the Equivalence between Positional Node Embeddings and Structural Graph Representations,0.3088222014826262
+GraphSAINT: Graph Sampling Based Inductive Learning Method,0.28629413591661856
+Polylogarithmic width suffices for gradient descent to achieve arbitrarily small test error with shallow ReLU networks,0.44189990963446113
+Cross-Lingual Ability of Multilingual BERT: An Empirical Study,0.2674900415569693
+Model Based Reinforcement Learning for Atari,0.32411363517434966
+InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization,0.36467457405115844
+Black-Box Adversarial Attack with Transferable Model-based Embedding,0.28076646654957005
+Inductive Matrix Completion Based on Graph Neural Networks,0.34733103027276335
+Probability Calibration for Knowledge Graph Embedding Models,0.2823994067796433
+Intensity-Free Learning of Temporal Point Processes,0.3920169267508079
+Certified Robustness for Top-k Predictions against Adversarial Perturbations via Randomized Smoothing,0.34663108709924795
+Simple and Effective Regularization Methods for Training on Noisily Labeled Data with Generalization Guarantee,0.26959771683196465
+"Understanding l4-based Dictionary Learning: Interpretation, Stability, and Robustness",0.44308030438708296
+RGBD-GAN: Unsupervised 3D Representation Learning From Natural Image Datasets via RGBD Image Synthesis,0.28139474268364567
+Estimating counterfactual treatment outcomes over time through adversarially balanced representations,0.3511607360155032
+Exploring Model-based Planning with Policy Networks,0.5641576293514327
+LambdaNet: Probabilistic Type Inference using Graph Neural Networks,0.4015248400232816
+Precision Gating: Improving Neural Network Efficiency with Dynamic Dual-Precision Activations,0.34548319285450074
+Variational Template Machine for Data-to-Text Generation,0.29252762819296935
+On Universal Equivariant Set Networks,0.38689334809446246
+The Gambler's Problem and Beyond,0.3340080227725591
+Learning to Represent Programs with Property Signatures,0.2097907485009391
+Smooth markets: A basic mechanism for organizing gradient-based learners,0.5149404537220492
+Demystifying Inter-Class Disentanglement,0.32877068859708886
+Meta-Learning Deep Energy-Based Memory Models,0.47724571516247905
+Self-Supervised Learning of Appliance Usage,0.3936908705953972
+Higher-Order Function Networks for Learning Composable 3D Object Representations,0.347252007352057
+Learning to solve the credit assignment problem,0.36362960004437345
+Prediction Poisoning: Towards Defenses Against DNN Model Stealing Attacks,0.3582825672039213
+Difference-Seeking Generative Adversarial Network--Unseen Sample Generation,0.2990434692918259
+Reducing Transformer Depth on Demand with Structured Dropout,0.4645948611985168
+Actor-Critic Provably Finds Nash Equilibria of Linear-Quadratic Mean-Field Games,0.3559289154379255
+Quantifying the Cost of Reliable Photo Authentication via High-Performance Learned Lossy Representations,0.3654308558634603
+Multi-agent Reinforcement Learning for Networked System Control,0.23193064614511055
+Learning Space Partitions for Nearest Neighbor Search,0.25295888993884297
+On Computation and Generalization of Generative Adversarial Imitation Learning,0.34617530831452675
+Evaluating The Search Phase of Neural Architecture Search,0.35708326155283476
+Critical initialisation in continuous approximations of binary neural networks,0.26263575923409155
+Evolutionary Population Curriculum for Scaling Multi-Agent Reinforcement Learning,0.3398973410125561
+Probabilistic Connection Importance Inference and Lossless Compression of Deep Neural Networks,0.4031455964443684
+Picking Winning Tickets Before Training by Preserving Gradient Flow,0.4244831994559806
+CAQL: Continuous Action Q-Learning,0.382896872380435
+Stable Rank Normalization for Improved Generalization in Neural Networks and GANs,0.33571395601239723
+Dynamic Model Pruning with Feedback,0.36856043699525076
+Emergent Tool Use From Multi-Agent Autocurricula,0.3790017543119006
+Conditional Learning of Fair Representations,0.39438699573650265
+You CAN Teach an Old Dog New Tricks! On Training Knowledge Graph Embeddings,0.3971391194573532
+Disagreement-Regularized Imitation Learning,0.4779776824686306
+Physics-as-Inverse-Graphics: Unsupervised Physical Parameter Estimation from Video,0.31989244429845476
+Model-Augmented Actor-Critic: Backpropagating through Paths,0.3992501333780598
+Disentanglement by Nonlinear ICA with General Incompressible-flow Networks (GIN),0.38278331487075884
+Generative Ratio Matching Networks,0.26382233838876556
+CM3: Cooperative Multi-goal Multi-stage Multi-agent Reinforcement Learning,0.3672280847044757
+Order Learning and Its Application to Age Estimation,0.30236696749686987
+Learning to Link,0.3752314791298017
+DiffTaichi: Differentiable Programming for Physical Simulation,0.35577132640901077
+Adaptive Structural Fingerprints for Graph Attention Networks,0.2546484443640143
+Kernelized Wasserstein Natural Gradient,0.36793512175267273
+DeepV2D: Video to Depth with Differentiable Structure from Motion,0.4716839618829073
+Measuring the Reliability of Reinforcement Learning Algorithms,0.5226914541743178
+SELF: Learning to Filter Noisy Labels with Self-Ensembling,0.42421604713486405
+Incorporating BERT into Neural Machine Translation,0.36727011898606116
+Transferring Optimality Across Data Distributions via Homotopy Methods,0.37489096170294905
+Quantum Algorithms for Deep Convolutional Neural Networks,0.3712761270571886
+Unrestricted Adversarial Examples via Semantic Manipulation,0.38613571963066534
+A Stochastic Derivative Free Optimization Method with Momentum,0.3684478302338432
+Learning The Difference That Makes A Difference With Counterfactually-Augmented Data,0.3770777775691526
+Fast is better than free: Revisiting adversarial training,0.43171777632408115
+Disentangling neural mechanisms for perceptual grouping,0.4581753207749002
+How to 0wn the NAS in Your Spare Time,0.29692391795073186
+Option Discovery using Deep Skill Chaining,0.34255091589636
+Massively Multilingual Sparse Word Representations,0.3561095617355906
+RaPP: Novelty Detection with Reconstruction along Projection Pathway,0.24000090348744368
+Domain Adaptive Multibranch Networks,0.37368100685825356
+Continual learning with hypernetworks,0.40498689849596203
+Distributed Bandit Learning: Near-Optimal Regret with Efficient Communication,0.39412214864257705
+SVQN: Sequential Variational Soft Q-Learning Networks,0.30129787432021443
+PROGRESSIVE LEARNING AND DISENTANGLEMENT OF HIERARCHICAL REPRESENTATIONS,0.2758088498978892
+Learning transport cost from subset correspondence,0.3242662355538478
+Meta Dropout: Learning to Perturb Latent Features for Generalization,0.3174340719152728
+On Robustness of Neural Ordinary Differential Equations,0.3852837518579242
+Towards neural networks that provably know when they don't know,0.31054100491453535
+Exploration in Reinforcement Learning with Deep Covering Options,0.3410210497102843
+Mixed Precision DNNs: All you need is a good parametrization,0.27780332938448754
+Depth-Width Trade-offs for ReLU Networks via Sharkovsky's Theorem,0.4057135231212885
+Learning to Move with Affordance Maps,0.4564478438594075
+Sign Bits Are All You Need for Black-Box Attacks,0.3626165614037249
+Biologically inspired sleep algorithm for increased generalization and adversarial robustness in deep neural networks,0.38519894394147197
+SNODE: Spectral Discretization of Neural ODEs for System Identification,0.42354646095969045
+Query2box: Reasoning over Knowledge Graphs in Vector Space Using Box Embeddings,0.4758286728138746
+Theory and Evaluation Metrics for Learning Disentangled Representations,0.32682256933653214
+Learning to Plan in High Dimensions via Neural Exploration-Exploitation Trees,0.41278997643971715
+And the Bit Goes Down: Revisiting the Quantization of Neural Networks,0.4522646186250911
+Continual Learning with Adaptive Weights (CLAW),0.28670606629959
+Depth-Adaptive Transformer,0.37225160307230576
+Robust Local Features for Improving the Generalization of Adversarial Training,0.40498304958118875
+Learning deep graph matching with channel-independent embedding and Hungarian attention,0.2903547191293311
+Large Batch Optimization for Deep Learning: Training BERT in 76 minutes,0.3922275344135784
+Reanalysis of Variance Reduced Temporal Difference Learning,0.3571276984342905
+Unsupervised Model Selection for Variational Disentangled Representation Learning,0.405652698617016
+On the Weaknesses of Reinforcement Learning for Neural Machine Translation,0.31355456429781114
+Training binary neural networks with real-to-binary convolutions,0.38005820753799147
+Mixed-curvature Variational Autoencoders,0.38280860639892156
+Program Guided Agent,0.4496239385905105
+Revisiting Self-Training for Neural Sequence Generation,0.2934471640165725
+"Ridge Regression: Structure, Cross-Validation, and Sketching",0.36723650119421314
+Deep Network Classification by Scattering and Homotopy Dictionary Learning,0.42727305268853416
+FreeLB: Enhanced Adversarial Training for Natural Language Understanding,0.361709662534778
+Reinforcement Learning with Competitive  Ensembles of Information-Constrained Primitives,0.5006119740844346
+Adversarially Robust Representations with Smooth Encoders,0.38574661249987136
+Scalable Neural Methods for Reasoning With a Symbolic Knowledge   Base,0.3174253183112125
+Curriculum Loss: Robust Learning and Generalization  against Label Corruption,0.37677094415021484
+Low-dimensional statistical manifold embedding of directed graphs,0.3007829180023147
+VideoFlow: A Conditional Flow-Based Model for Stochastic Video Generation,0.3346081314333231
+Self-Adversarial Learning with Comparative Discrimination for Text Generation,0.3063081406285656
+On the Global Convergence  of Training Deep Linear ResNets,0.34430421656325494
+Measuring and Improving the Use of Graph Information in Graph Neural Networks,0.3055936482437495
+AssembleNet: Searching for Multi-Stream Neural Connectivity in Video Architectures,0.4239273949911047
+Identity Crisis: Memorization and Generalization Under Extreme Overparameterization,0.43125837660466365
+Spike-based causal inference for weight alignment,0.3866387941592226
+VariBAD: A Very Good Method for Bayes-Adaptive Deep RL via Meta-Learning,0.34236833309009884
+Expected Information Maximization: Using the I-Projection for Mixture Density Estimation,0.3421959589175024
+Kernel of CycleGAN as a principal homogeneous space,0.2623568313134433
+"Generative Models for Effective ML on Private, Decentralized Datasets",0.24333104766567026
+Gradient-Based Neural DAG Learning,0.304251639795427
+DeepSphere: a graph-based spherical CNN,0.37083364866174834
+IMPACT: Importance Weighted Asynchronous Architectures with Clipped Target Networks,0.39742762743604537
+Improving Neural Language Generation with Spectrum Control,0.3063230870347806
+Harnessing the Power of Infinitely Wide Deep Nets on Small-data Tasks,0.3667557714711201
+NAS evaluation is frustratingly hard,0.336024905311927
+Budgeted Training: Rethinking Deep Neural Network Training Under Resource Constraints,0.4564478438594075
+Training individually fair ML models with sensitive subspace robustness,0.3855074699963558
+Deformable Kernels: Adapting Effective Receptive Fields for Object Deformation,0.44303344927620014
+From Variational to Deterministic Autoencoders,0.44192769577223967
+GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation,0.2744223451777942
+A Theoretical Analysis of the Number of Shots in Few-Shot Learning,0.4272102100870999
+Deep Learning of Determinantal Point Processes via Proper Spectral Sub-gradient,0.3156867738966487
+Augmenting Genetic Algorithms with Deep Neural Networks for Exploring the Chemical Space,0.35510053655319945
+Denoising and Regularization via Exploiting the Structural Bias of Convolutional Generators,0.4135801225075245
+SNOW: Subscribing to Knowledge via Channel Pooling for Transfer & Lifelong Learning of Convolutional Neural Networks,0.34468043868794807
+A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms,0.41521240999229886
+Classification-Based Anomaly Detection for General Data,0.3837273958204701
+B-Spline CNNs on Lie groups,0.3181675472574341
+Global Relational Models of Source Code,0.2769455998334782
+NeurQuRI: Neural Question Requirement Inspector for Answerability Prediction in Machine Reading Comprehension,0.3669751957216663
+Adjustable Real-time Style Transfer,0.38475846846874406
+Ranking Policy Gradient,0.2973190906945786
+Neural Epitome Search for Architecture-Agnostic Network Compression,0.3170911071266072
+Learning to Guide Random Search,0.43707911092658003
+BERTScore: Evaluating Text Generation with BERT,0.37202704179887397
+Reinforced Genetic Algorithm Learning for Optimizing Computation Graphs,0.4693152746832436
+Meta-Learning Acquisition Functions for Transfer Learning in Bayesian Optimization,0.38647372363927696
+Adaptive Correlated Monte Carlo for Contextual Categorical Sequence Generation,0.3609435792680066
+Fooling Detection Alone is Not Enough: Adversarial Attack against Multiple Object Tracking,0.36513120245213343
+Pre-training Tasks for Embedding-based Large-scale Retrieval,0.23804213129298998
+MACER: Attack-free and Scalable Robust Training via Maximizing Certified Radius,0.4169535292158548
+Rényi Fair Inference,0.41100761450190054
+An Exponential Learning Rate Schedule for Deep Learning,0.3988076006953965
+Graph Convolutional Reinforcement Learning,0.30401025235293655
+In Search for a SAT-friendly Binarized Neural Network Architecture,0.35144176853924536
+A Constructive Prediction of the Generalization Error Across Scales,0.3381785724428272
+Improving Generalization in Meta Reinforcement Learning using Learned Objectives,0.4192285536568881
+Exploratory Not Explanatory: Counterfactual Analysis of Saliency Maps for Deep Reinforcement Learning,0.1890114334394209
+Scalable Model Compression by Entropy Penalized Reparameterization,0.42279077590046465
+Ensemble Distribution Distillation,0.3850505002812712
+ES-MAML: Simple Hessian-Free Meta Learning,0.2631384365282712
+SAdam: A Variant of Adam for Strongly Convex Functions,0.2970625377846245
+Continual Learning with Bayesian Neural Networks for Non-Stationary Data,0.3365212960322052
+Automated curriculum generation through setter-solver interactions,0.48111903749665075
+NAS-Bench-201: Extending the Scope of Reproducible Neural Architecture Search,0.3870426362737333
+Dynamic Time Lag Regression: Predicting What & When,0.3053883791135293
+Double Neural Counterfactual Regret Minimization,0.399957650067715
+Robust anomaly detection and backdoor attack detection via differential privacy,0.39330452896678875
+Optimistic Exploration even with a Pessimistic Initialisation,0.35412438255956
+Training Generative Adversarial Networks from Incomplete Observations using Factorised Discriminators,0.35765881278822653
+Deep Symbolic Superoptimization Without Human Knowledge,0.31147652320830765
+Neural Execution of Graph Algorithms,0.4162507690588951
+Encoding word order in complex embeddings,0.34533849993776383
+Deep Double Descent: Where Bigger Models and More Data Hurt,0.5875620272090678
+The Early Phase of Neural Network Training,0.35103365709086043
+"Don't Use Large Mini-batches, Use Local SGD",0.3649559283028956
+A Closer Look at the Optimization Landscapes of Generative Adversarial Networks,0.38416081133363744
+Learning to Control PDEs with Differentiable Physics,0.4444735367207764
+Rethinking the Hyperparameters for Fine-tuning,0.3658729448768545
+PAC Confidence Sets for Deep Neural Networks via Calibrated Prediction,0.3389598948626455
+Deep Semi-Supervised Anomaly Detection,0.3430834338680404
+AtomNAS: Fine-Grained End-to-End Neural Architecture Search,0.38106496119654826
+"Triple Wins: Boosting Accuracy, Robustness and Efficiency Together by Enabling Input-Adaptive Inference",0.3486852477548827
+CLEVRER: Collision Events for Video Representation and Reasoning,0.41693004915116516
+Computation Reallocation for Object Detection,0.3913680048593196
+Making Efficient Use of Demonstrations to Solve Hard Exploration Problems,0.321047293255048
+Robust And Interpretable Blind Image Denoising Via Bias-Free Convolutional Neural Networks,0.37216827867133173
+Permutation Equivariant Models for Compositional Generalization in Language,0.3447401663881613
+Automated Relational Meta-learning,0.37320948832094303
+A Probabilistic Formulation of Unsupervised Text Style Transfer,0.4067340097840329
+Discrepancy Ratio: Evaluating Model Performance When Even Experts Disagree on the Truth,0.4842923918100137
+Combining Q-Learning and Search with Amortized Value Estimates,0.38420868873487507
+Generalized Convolutional Forest Networks for Domain Generalization and Visual Recognition,0.38624370518649653
+Graph Constrained Reinforcement Learning for Natural Language Action Spaces,0.4038930773647087
+Improved memory in recurrent neural networks with sequential non-normal dynamics,0.341280239452522
+A Learning-based Iterative Method for Solving Vehicle Routing Problems,0.3319716538016628
+Emergence of functional and structural properties of the head direction system by optimization of recurrent neural networks,0.3863579790340161
+Adversarially robust transfer learning,0.3826424782817025
+Learning from Explanations with Neural Execution Tree,0.3329849871221419
+Universal Approximation with Certified Networks,0.3455734931523631
+Extreme Classification via Adversarial Softmax Approximation,0.3260825727921009
+Synthesizing Programmatic Policies that Inductively Generalize,0.3910176237589469
+Image-guided Neural Object Rendering,0.4280531767197613
+Is a Good Representation Sufficient for Sample Efficient Reinforcement Learning?,0.3598979678253103
+Interpretable Complex-Valued Neural Networks for Privacy Protection,0.3287830128593711
+The Shape of Data: Intrinsic Distance for Data Distributions,0.3428349738663371
+Dynamics-Aware Embeddings,0.41850026066414475
+Extreme Tensoring for Low-Memory Preconditioning ,0.29531690852165826
+Sequential Latent Knowledge Selection for Knowledge-Grounded Dialogue,0.3182812327731561
+Geom-GCN: Geometric Graph Convolutional Networks,0.2691531627681655
+Compositional languages emerge in a neural iterated learning model,0.3394467930526848
+Knowledge Consistency between Neural Networks and Beyond,0.35578685428085666
+Differentially Private Meta-Learning,0.41211967186599746
+Stochastic Conditional Generative Networks with Basis Decomposition,0.2550008311801342
+Neural Text Generation With Unlikelihood Training,0.4048286575308958
+Duration-of-Stay Storage Assignment under Uncertainty,0.2774158665346228
+Non-Autoregressive Dialog State Tracking,0.2945479860035269
+Scalable and Order-robust Continual Learning with Additive Parameter Decomposition,0.2920216395402951
+Automatically Discovering and Learning New Visual Categories with Ranking Statistics,0.40324963040820544
+On Identifiability in Transformers,0.394188972547018
+Robust Reinforcement Learning for Continuous Control with Model Misspecification,0.4618938509322515
+Enhancing Adversarial Defense by k-Winners-Take-All,0.36043217679433737
+Are Pre-trained Language Models Aware of Phrases? Simple but Strong Baselines for Grammar Induction,0.2960684483292526
+Neural Policy Gradient Methods: Global Optimality and Rates of Convergence,0.3158147212035332
+Enhancing Transformation-Based Defenses Against Adversarial Attacks with a Distribution Classifier,0.3204642675394796
+Sample Efficient Policy Gradient Methods with Recursive Variance Reduction,0.3734664152939119
+ALBERT: A Lite BERT for Self-supervised Learning of Language Representations,0.43954376276625295
+State-only Imitation with Transition Dynamics Mismatch,0.23234802074776817
+Gradientless Descent: High-Dimensional Zeroth-Order Optimization,0.2764793038041177
+Black-box Off-policy Estimation for Infinite-Horizon Reinforcement Learning,0.41927499351462105
+Hyper-SAGNN: a self-attention based graph neural network for hypergraphs,0.3614638958066991
+Unpaired Point Cloud Completion on Real Scans using Adversarial Training,0.37774051029996986
+The intriguing role of module criticality in the generalization of deep networks,0.3685825450679315
+SpikeGrad: An ANN-equivalent Computation Model for Implementing Backpropagation with Spikes,0.2772309768494394
+Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics,0.33229555009384004
+DivideMix: Learning with Noisy Labels as Semi-supervised Learning,0.3604514655469831
+Reinforcement Learning Based Graph-to-Sequence Model for Natural Question Generation,0.4114917291010415
+Bayesian Meta Sampling for Fast Uncertainty Adaptation,0.2528889236616602
+BREAKING  CERTIFIED  DEFENSES:  SEMANTIC  ADVERSARIAL  EXAMPLES  WITH  SPOOFED  ROBUSTNESS  CERTIFICATES,0.29902394712431024
+Progressive Memory Banks for Incremental Domain Adaptation,0.35746420332322837
+Deep Learning For Symbolic Mathematics,0.36518836810790456
+Decentralized Deep Learning with Arbitrary Communication Compression,0.3243366840095463
+Masked Based Unsupervised Content Transfer,0.31331015294778686
+Fair Resource Allocation in Federated Learning,0.2639379051865708
+Gap-Aware Mitigation of Gradient Staleness,0.25719895244269586
+Graph Neural Networks Exponentially Lose Expressive Power for Node Classification,0.37672818651888157
+A FRAMEWORK  FOR ROBUSTNESS CERTIFICATION  OF SMOOTHED CLASSIFIERS USING  F-DIVERGENCES,0.4037875428451002
+I Am Going MAD: Maximum Discrepancy Competition for Comparing Classifiers Adaptively,0.315263779269779
+Analysis of Video Feature Learning in Two-Stream CNNs on the Example of Zebrafish Swim Bout Classification,0.28979116122317156
+"On the steerability"" of generative adversarial networks""",0.5393921381445895
+Imitation Learning via Off-Policy Distribution Matching,0.42039452137458794
+A Function Space View of Bounded Norm Infinite Width ReLU Nets: The Multivariate Case,0.4343162206627184
+ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators,0.5125942926991954
+Quantifying Point-Prediction Uncertainty in Neural Networks via Residual Estimation with an I/O Kernel,0.3792382150823039
+Span Recovery for Deep Neural Networks with Applications to Input Obfuscation,0.24759725225402623
+Co-Attentive Equivariant Neural Networks: Focusing Equivariance On Transformations Co-Occurring in Data,0.3126333968767533
+Explanation  by Progressive  Exaggeration,0.3856910543191179
+On the Variance of the Adaptive Learning Rate and Beyond,0.3213834734013306
+Curvature Graph Network,0.24289476735643206
+StructPool: Structured Graph Pooling via Conditional Random Fields,0.3960489407743729
+Weakly Supervised Clustering by Exploiting Unique Class Count,0.37254121351288333
+Gradients as Features for Deep Representation Learning,0.2507470091269023
+Composition-based Multi-Relational Graph Convolutional Networks,0.3486202419106496
+Behaviour Suite for Reinforcement Learning,0.40690949783667946
+Identifying through Flows for Recovering Latent Representations,0.3620048140051971
+Federated Adversarial Domain Adaptation,0.3739946974914557
+Why Not to Use Zero Imputation? Correcting Sparsity Bias in Training Neural Networks,0.3257911267130023
+Can gradient clipping mitigate label noise?,0.31886872035958497
+Meta-learning curiosity algorithms,0.39245924926592185
+Lookahead: A Far-sighted Alternative of Magnitude-based Pruning,0.30879338093203496
+Fantastic Generalization Measures and Where to Find Them,0.4201885703009459
+Convergence of Gradient Methods on Bilinear Zero-Sum Games,0.3226832245721226
+Multi-Agent Interactions Modeling with Correlated Policies,0.36558641696082383
+"Real or Not Real, that is the Question",0.40450080814810596
+Structured Object-Aware Physics Prediction for Video Modeling and Planning,0.33360000047805183
+Implementing Inductive bias for different navigation tasks through diverse RNN attrractors,0.3501888061995547
+End to End Trainable Active Contours via Differentiable Rendering,0.34323657570003874
+ReMixMatch: Semi-Supervised Learning with Distribution Matching and Augmentation Anchoring,0.4032904876486319
+DropEdge: Towards Deep Graph Convolutional Networks on Node Classification,0.2302031852589798
+Neural Tangents: Fast and Easy Infinite Neural Networks in Python,0.3627378505154963
+FasterSeg: Searching for Faster Real-time Semantic Segmentation,0.3905910629458854
+Understanding Knowledge Distillation in Non-autoregressive Machine Translation,0.3345716557454377
+Understanding Architectures Learnt by Cell-based Neural Architecture Search,0.24574306032169368
+Dynamically Pruned Message Passing Networks for Large-scale Knowledge Graph Reasoning,0.3468902606876103
+Pretrained Encyclopedia: Weakly Supervised Knowledge-Pretrained Language Model,0.43966485206282735
+Linear Symmetric Quantization of Neural Networks for Low-precision Integer Hardware,0.2333774518737333
+Consistency Regularization for Generative Adversarial Networks,0.4659142850737613
+Short and Sparse Deconvolution --- A Geometric Approach,0.22705264316909807
+GENESIS: Generative Scene Inference and Sampling with Object-Centric Latent Representations,0.3783053864262502
+BinaryDuo: Reducing Gradient Mismatch in Binary Activation Network by Coupling Binary Activations,0.26818816515509925
+Transformer-XH: Multi-Evidence Reasoning with eXtra Hop Attention,0.39459849917993445
+Sub-policy Adaptation for Hierarchical Reinforcement Learning,0.392584266277128
+"Watch, Try, Learn: Meta-Learning from Demonstrations and Rewards",0.3937061399909188
+Deep Orientation Uncertainty Learning based on a Bingham Loss,0.36330840849487456
+Overlearning Reveals Sensitive Attributes,0.3396863400503702
+Understanding the Limitations of Conditional Generative Models,0.42042033575251325
+Learning Disentangled Representations for CounterFactual Regression,0.3773751977995499
+Dynamical Distance Learning for Semi-Supervised and Unsupervised Skill Discovery,0.4095015364265228
+Learning-Augmented Data Stream Algorithms,0.34926504011727627
+"Kaleidoscope: An Efficient, Learnable Representation For All Structured Linear Maps",0.4340633924236142
+Playing the lottery with rewards and multiple languages: lottery tickets in RL and NLP,0.2829225548779516
+Learning the Arrow of Time for Problems in Reinforcement Learning,0.4975669959095686
+DD-PPO: Learning Near-Perfect PointGoal Navigators from 2.5 Billion Frames,0.40513359954778777
+Information Geometry of Orthogonal Initializations and Training,0.34348523400779685
+Strategies for Pre-training Graph Neural Networks,0.44717416196271687
+Cross-Domain Few-Shot Classification via Learned Feature-Wise Transformation,0.37688727137548966
+How much Position Information Do Convolutional Neural Networks Encode?,0.4502401502222124
+Generalization through Memorization: Nearest Neighbor Language Models,0.26998836525196385
+On the Relationship between Self-Attention and Convolutional Layers,0.3652851903000199
+On Bonus Based Exploration Methods In The Arcade Learning Environment,0.4000610294804055
+The Curious Case of Neural Text Degeneration,0.3950168130290949
+A Mutual Information Maximization Perspective of Language Representation Learning,0.46891713406468744
+Measuring Compositional Generalization: A Comprehensive Method on Realistic Data,0.31328242420649394
+GLAD: Learning Sparse Graph Recovery,0.415213398566212
+Query-efficient Meta Attack to Deep Neural Networks,0.3852837518579242
+Bounds on Over-Parameterization for Guaranteed Existence of Descent Paths in Shallow ReLU Networks,0.3551094267844688
+"A critical analysis of self-supervision, or what we can learn from a single image",0.3737825002457495
+Geometric Insights into the Convergence of Nonlinear TD Learning,0.4421120963226369
+Network Deconvolution,0.2878112758074218
+Pure and Spurious Critical Points: a Geometric Study of Linear Networks,0.373416731921141
+PC-DARTS: Partial Channel Connections for Memory-Efficient Architecture Search,0.31998994958248034
+Towards a Deep Network Architecture for Structured Smoothness,0.32390573043930687
+RNNs Incrementally Evolving on an Equilibrium Manifold: A Panacea for Vanishing and Exploding Gradients?,0.3650904872153343
+"Deep Imitative Models for Flexible Inference, Planning, and Control",0.46985352485510773
+The Implicit Bias of Depth: How Incremental Learning Drives Generalization,0.33982425485930406
+Economy Statistical Recurrent Units For Inferring Nonlinear Granger Causality,0.3136304699694398
+Detecting Extrapolation with Local Ensembles,0.3326711267668823
+Few-shot Text Classification with Distributional Signatures,0.2825323587515015
+Scaling Autoregressive Video Models,0.5384103462444507
+Robust Subspace Recovery Layer for Unsupervised Anomaly Detection,0.4029807457189104
+SCALOR: Generative World Models with Scalable Object Representations,0.3650304716624055
+Learning Robust Representations via Multi-View Information Bottleneck,0.467607105356369
+Are Transformers universal approximators of sequence-to-sequence functions?,0.2966186376597001
+Escaping Saddle Points Faster with Stochastic Momentum,0.300914686069683
+SlowMo: Improving Communication-Efficient Distributed SGD with Slow Momentum,0.39069160819537624
+SUMO: Unbiased Estimation of Log Marginal Probability for Latent Variable Models,0.42486699291615404
+Symplectic ODE-Net: Learning Hamiltonian Dynamics with Control,0.37741155316278696
+The asymptotic spectrum of the Hessian of DNN throughout training,0.3581533136078819
+AutoQ: Automated Kernel-Wise Neural Network Quantization ,0.22494431644515134
+Learning Self-Correctable Policies and Value Functions from Demonstrations with Negative Sampling,0.38197767610879113
+Variational Autoencoders for Highly Multivariate Spatial Point Processes Intensities,0.3253465486937788
+Single Episode Policy Transfer in Reinforcement Learning,0.26198263426765905
+Transferable Perturbations of Deep Feature Distributions,0.3170895332571903
+Pruned Graph Scattering Transforms,0.3680178703360366
+Efficient Probabilistic Logic Reasoning with Graph Neural Networks,0.22616430021458997
+Decoupling Representation and Classifier for Long-Tailed Recognition,0.42260186435604774
+Coherent Gradients: An Approach to Understanding Generalization in Gradient Descent-based Optimization,0.3694478110611054
+Environmental drivers of systematicity and generalization in a situated agent,0.4097269003960996
+Compositional Language Continual Learning,0.33080355303169445
+Vid2Game: Controllable Characters Extracted from Real-World Videos,0.4585005140776394
+Infinite-horizon Off-Policy Policy Evaluation with Multiple Behavior Policies,0.32990790945054227
+Learning Efficient Parameter Server Synchronization Policies for Distributed SGD,0.30996152098019525
+Unsupervised Clustering using Pseudo-semi-supervised Learning,0.3516804886225821
+Tree-Structured Attention with Hierarchical Accumulation,0.5040595503012639
+Sparse Coding with Gated Learned ISTA,0.4235820749671686
+A Signal Propagation Perspective for Pruning Neural Networks at Initialization,0.39298251553797753
+Functional vs. parametric equivalence of ReLU networks,0.36956697668046995
+Jacobian Adversarially Regularized Networks for Robustness,0.2557678343133372
+Reinforced active learning for image segmentation,0.4007222126216115
+Maximum Likelihood Constraint Inference for Inverse Reinforcement Learning,0.3954769640124515
+Weakly Supervised Disentanglement with Guarantees,0.4372172886208035
+PCMC-Net: Feature-based Pairwise Choice Markov Chains,0.27049190037288257
+Capsules with Inverted Dot-Product Attention Routing,0.4583153420720337
+Contrastive Representation Distillation,0.4039846551777102
+Variance Reduction With Sparse Gradients,0.4240913162984242
+The Variational Bandwidth Bottleneck: Stochastic Evaluation on an Information Budget,0.2600165623770079
+Mixout: Effective Regularization to Finetune Large-scale Pretrained Language Models,0.3290871356280468
+Novelty Detection Via Blurring,0.36081880929630666
+Locality and Compositionality in Zero-Shot Learning,0.3997491012129407
+"Prediction, Consistency, Curvature: Representation Learning for Locally-Linear Control",0.38640523778095476
+Efficient and Information-Preserving Future Frame Prediction and Beyond,0.3558931165627278
+Tranquil Clouds: Neural Networks for Learning Temporally Coherent Features in Point Clouds,0.37157647975800734
+Robust training with ensemble consensus,0.3471001544395132
+Asymptotics of Wide Networks from Feynman Diagrams,0.4156541653560957
+Unbiased Contrastive Divergence Algorithm for Training Energy-Based Latent Variable Models,0.37713870047743636
+Frequency-based Search-control in Dyna,0.2984021239097645
+Energy-based models for atomic-resolution protein conformations,0.3512734953458595
+Augmenting Non-Collaborative Dialog Systems with Explicit Semantic and Strategic Dialog History,0.24423419978614222
+Dynamic Sparse Training: Find Efficient Sparse Network From Scratch With Trainable Masked Layers,0.26803702754909087
+RTFM: Generalising to New Environment Dynamics via Reading,0.4318627267151639
+FEW-SHOT LEARNING ON GRAPHS VIA SUPER-CLASSES BASED ON GRAPH SPECTRAL MEASURES,0.2891675026573259
+Controlling generative models with continuous factors of variations,0.34475046869962905
+Defending Against Physically Realizable Attacks on Image Classification,0.32742940893337347
+A Neural Dirichlet Process Mixture Model for Task-Free Continual Learning,0.3760090789116557
+HiLLoC: lossless image compression with hierarchical latent variable models,0.36700893057197814
+Multilingual Alignment of Contextual Word Representations,0.4137844763973974
+Jelly Bean World: A Testbed for Never-Ending Learning,0.2794292234603163
+V-MPO: On-Policy Maximum a Posteriori Policy Optimization for Discrete and Continuous Control,0.472168104842083
+Deep Graph Matching Consensus,0.31510511429805227
+Finding and Visualizing Weaknesses of Deep Reinforcement Learning Agents,0.38640356371308476
+Intriguing Properties of Adversarial Training at Scale,0.4260205549015633
+Four Things Everyone Should Know to Improve Batch Normalization,0.25052493099319917
+Effect of Activation Functions on the Training of Overparametrized Neural Nets,0.3905107104885195
+Differentiation of Blackbox Combinatorial Solvers,0.3883242471528859
+Learning Heuristics for Quantified Boolean Formulas through Reinforcement Learning,0.3642955707408029
+Inductive representation learning on temporal graphs,0.37937174384529315
+Multi-Scale Representation Learning  for Spatial Feature Distributions using Grid Cells,0.4209512990742525
+Efficient Riemannian Optimization on the Stiefel Manifold via the Cayley Transform,0.31743646898946365
+"Neural tangent kernels, transportation mappings, and universal approximation",0.3074854060746022
+Dream to Control: Learning Behaviors by Latent Imagination,0.43828912048544477
+From Inference to Generation: End-to-end Fully Self-supervised Generation of Human Face from Speech,0.3022194517010621
+Neural Symbolic Reader: Scalable Integration of Distributed and Symbolic Representations for Reading Comprehension,0.4978773346550439
+Population-Guided Parallel Policy Search for Reinforcement Learning,0.30578887765167423
+Abstract Diagrammatic Reasoning with Multiplex Graph Networks,0.26547291053030875
+Logic and the 2-Simplicial Transformer,0.2143093113895665
+Meta Reinforcement Learning with Autonomous Inference of Subtask Dependencies,0.44170859776675414
+A Latent Morphology Model for Open-Vocabulary Neural Machine Translation,0.4541938521290294
+Mutual Mean-Teaching: Pseudo Label Refinery for Unsupervised Domain Adaptation on Person Re-identification,0.27810686090453984
+Variational Hetero-Encoder Randomized GANs for Joint Image-Text Modeling,0.3254261898675265
+Toward Evaluating Robustness of Deep Reinforcement Learning with Continuous Control,0.36130531384105163
+BlockSwap: Fisher-guided Block Substitution for Network Compression on a Budget,0.22044641990881703
+Decoding As Dynamic Programming For Recurrent Autoregressive Models,0.35017640812801165
+LEARNING EXECUTION THROUGH NEURAL CODE FUSION,0.3020127327108975
+Detecting and Diagnosing Adversarial Images with Class-Conditional Capsule Reconstructions,0.5319412264993583
+Reconstructing continuous distributions of 3D protein structure from cryo-EM images,0.4297762975264823
+Sampling-Free Learning of Bayesian Quantized Neural Networks,0.32347122601763023
+On Solving Minimax Optimization Locally: A Follow-the-Ridge Approach,0.5383188834337854
+Lagrangian Fluid Simulation with Continuous Convolutions,0.4444735367207764
+Stochastic Weight Averaging in Parallel: Large-Batch Training That Generalizes Well,0.33020642435344577
+Adversarial AutoAugment,0.2649936744787039
+Episodic Reinforcement Learning with Associative Memory,0.27430574628547233
+NAS-Bench-1Shot1: Benchmarking and Dissecting One-shot Neural Architecture Search,0.37489096170294905
+You Only Train Once: Loss-Conditional Training of Deep Networks,0.3315354632091263
+Q-learning with UCB Exploration is Sample Efficient for Infinite-Horizon MDP,0.3452102389234153
+Deep Audio Priors Emerge From Harmonic Convolutional Networks,0.4266534661708206
+Abductive Commonsense Reasoning,0.4223640857074671
+DeepHoyer: Learning Sparser Neural Network with Differentiable Scale-Invariant Sparsity Measures,0.3021891151645658
+DeFINE: Deep Factorized Input Token Embeddings for Neural Sequence Modeling,0.32281187265917227
+Never Give Up: Learning Directed Exploration Strategies,0.45668164733265276
+Beyond Linearization: On Quadratic and Higher-Order Approximation of Wide Neural Networks,0.3728011049560953
+Thieves on Sesame Street! Model Extraction of BERT-based APIs,0.4900427959593817
+Accelerating SGD with momentum for over-parameterized learning,0.4512940860639133
+Low-Resource Knowledge-Grounded Dialogue Generation,0.34180838896780696
+Diverse Trajectory Forecasting with Determinantal Point Processes,0.3741043677190044
+Estimating Gradients for Discrete Random Variables by Sampling without Replacement,0.4477438776764462
+Maxmin Q-learning: Controlling the Estimation Bias of Q-learning,0.29581682323899167
+Editable Neural Networks,0.3760105324939679
+Rethinking Softmax Cross-Entropy Loss for Adversarial Robustness,0.35106311764405235
+Self-labelling via simultaneous clustering and representation learning,0.46107051973756846
+Semi-Supervised Generative Modeling for Controllable Speech Synthesis,0.3497716220228213
+EMPIR: Ensembles of Mixed Precision Deep Networks for Increased Robustness Against Adversarial Attacks,0.24864908988795903
+Training Recurrent Neural Networks Online by Learning Explicit State Variables,0.2714467472898527
+MEMO: A Deep Network for Flexible Combination of Episodic Memories,0.4716029479987083
+Differentiable learning of numerical rules in knowledge graphs,0.3632317235109646
+Multiplicative Interactions and Where to Find Them,0.47327403214499664
+Recurrent neural circuits for contour detection,0.4285701674491289
+Provable Benefit of Orthogonal Initialization in Optimizing Deep Linear Networks,0.46199101562427936
+Sliced Cramer Synaptic Consolidation for Preserving Deeply Learned Representations,0.3490560909579509
+Neural Outlier Rejection for Self-Supervised Keypoint Learning,0.35623792072869687
+vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations,0.48186245498379765
+A Fair Comparison of Graph Neural Networks for Graph Classification,0.3366641393583411
+Towards Hierarchical Importance Attribution: Explaining Compositional Semantics for Neural Sequence Models,0.3543382168433868
+Understanding Why Neural Networks Generalize Well Through GSNR of Parameters,0.3445781129431181
+Intrinsic Motivation for Encouraging Synergistic Behavior,0.331823039024565
+Sharing Knowledge in Multi-Task Deep Reinforcement Learning,0.27069898369420103
+Provable Filter Pruning for Efficient Neural Networks,0.28474944640047145
+Additive Powers-of-Two Quantization: An Efficient Non-uniform Discretization for Neural Networks,0.20459304833135145
+Variational Recurrent Models for Solving Partially Observable Control Tasks,0.3514731323788302
+Discriminative Particle Filter Reinforcement Learning for Complex Partial observations,0.3243566133169422
+White Noise Analysis of Neural Networks,0.3006367823561764
+RaCT: Toward Amortized Ranking-Critical Training For Collaborative Filtering ,0.375917667612354
+Skip Connections Matter: On the Transferability of Adversarial Examples Generated with ResNets,0.36637541155729514
+The Local Elasticity of Neural Networks,0.3217256234527624
+Deep probabilistic subsampling for task-adaptive compressed sensing,0.2714203496773273
+Simplified Action Decoder for Deep Multi-Agent Reinforcement Learning,0.4535883523970403
+On the Need for Topology-Aware Generative Models for Manifold-Based Defenses,0.37616703659578926
+Functional Regularisation for  Continual Learning with Gaussian Processes,0.37151038305250095
+Graph inference learning for semi-supervised classification,0.23215404927208994
+Input Complexity and Out-of-distribution Detection with Likelihood-based Generative Models,0.22824344655137566
+AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty,0.41638300764846203
+Learn to Explain Efficiently via Neural Logic Inductive Learning,0.3439738825000667
+Doubly Robust Bias Reduction in Infinite Horizon Off-Policy Estimation,0.2819090207631826
+Towards Stable and Efficient Training of Verifiably Robust Neural Networks,0.3922275344135784
+Adversarial Policies: Attacking Deep Reinforcement Learning,0.24993733458478123
+DDSP: Differentiable Digital Signal Processing,0.5320789808730858
+Enabling Deep Spiking Neural Networks with Hybrid Conversion and Spike Timing Dependent Backpropagation,0.26907086597206675
+Towards Verified Robustness under Text Deletion Interventions,0.3893067401703911
+N-BEATS: Neural basis expansion analysis for interpretable time series forecasting,0.49673195298220124
+Improving Adversarial Robustness Requires Revisiting Misclassified Examples,0.3771050647493673
+On Generalization Error Bounds of Noisy Gradient Methods for Non-Convex Learning,0.31073678080304823
+SPACE: Unsupervised Object-Oriented Scene Representation via Spatial Attention and Decomposition,0.3343462721325554
+Learning from Unlabelled Videos Using Contrastive Predictive Neural 3D Mapping,0.33974388575547754
+CLN2INV: Learning Loop Invariants with Continuous Logic Networks,0.3597624911866066
+"Pay Attention to Features, Transfer Learn Faster CNNs",0.35978699136058945
+Sign-OPT: A Query-Efficient Hard-label Adversarial Attack,0.3414874838932156
+GraphQA: Protein Model Quality Assessment using Graph Convolutional Network,0.35055934713101794
+Compositional Embeddings: Joint Perception and Comparison of Class Label Sets,0.33516786304182244
+Generating Multi-Sentence Abstractive Summaries of Interleaved Texts,0.31142693909691765
+Generalizing Reinforcement Learning to Unseen Actions,0.34928614168981237
+Mixture-of-Experts Variational Autoencoder for clustering and generating from similarity-based representations,0.2985445265191628
+On Symmetry and Initialization for Neural Networks,0.2182372777797048
+Training Interpretable Convolutional Neural Networks towards Class-specific Filters,0.19671757989519464
+InfoCNF: Efficient Conditional Continuous Normalizing Flow Using Adaptive Solvers,0.2536741459417582
+All SMILES Variational Autoencoder for Molecular Property Prediction and Optimization,0.2871101722290022
+On Incorporating Semantic Prior Knowlegde in Deep Learning Through Embedding-Space Constraints,0.29193738992711155
+Learning Latent Representations for Inverse Dynamics using Generalized Experiences,0.2247972178051229
+Understanding Attention Mechanisms,0.2552354894413987
+Differentiable Architecture Compression,0.2939747931710819
+On Stochastic Sign Descent Methods,0.28928248568325426
+The Generalization-Stability Tradeoff in Neural Network Pruning,0.17127884247225642
+Evaluations and Methods for Explanation through Robustness Analysis,0.3434510625754354
+Unsupervised Meta-Learning for Reinforcement Learning,0.2648896661336773
+A General Upper Bound for Unsupervised Domain Adaptation,0.22486354126571972
+FoveaBox: Beyound Anchor-based Object Detection,0.39987016972536904
+CloudLSTM: A Recurrent Neural Model for Spatiotemporal Point-cloud Stream Forecasting,0.27856917896667654
+Step Size Optimization,0.23703460706888463
+Amortized Nesterov's Momentum: Robust and Lightweight  Momentum for Deep Learning,0.16683842475510652
+Improving Sample Efficiency in Model-Free Reinforcement Learning from Images,0.4449385021673347
+Curriculum Learning for Deep Generative Models with Clustering,0.18955936670523507
+Autoencoder-based Initialization for Recurrent Neural Networks with a Linear Memory,0.17401973136024665
+Universal Approximation with Deep Narrow Networks,0.3324751186943152
+Probing Emergent Semantics in Predictive Agents via Question Answering,0.38324625122340433
+Scheduled Intrinsic Drive: A Hierarchical Take on Intrinsically Motivated Exploration,0.3534373832961067
+Stein Bridging: Enabling Mutual Reinforcement between Explicit and Implicit Generative Models,0.230745148755706
+New Loss Functions for Fast Maximum Inner Product Search,0.22461668490747141
+End-to-end named entity recognition and relation extraction using pre-trained language models,0.20279457121114877
+AdaGAN: Adaptive GAN for Many-to-Many Non-Parallel Voice Conversion,0.1452918251349231
+Goal-Conditioned Video Prediction,0.3680199646033459
+wMAN: WEAKLY-SUPERVISED MOMENT ALIGNMENT NETWORK FOR TEXT-BASED VIDEO SEGMENT RETRIEVAL,0.30263484770021687
+Data augmentation instead of explicit regularization,0.17409412428516072
+Implicit λ-Jeffreys Autoencoders: Taking the Best of Both Worlds,0.22561501838575615
+Improving Batch Normalization with Skewness Reduction for Deep Neural Networks,0.22206862687375556
+Cascade Style Transfer,0.10915399027391491
+Recurrent Hierarchical Topic-Guided Neural Language Models,0.30726369854429036
+The Frechet Distance of training and test distribution predicts the generalization gap,0.25598936079723683
+Objective Mismatch in Model-based Reinforcement Learning,0.22860845151538492
+Learning Explainable Models Using Attribution Priors,0.28998415330164307
+Semi-supervised 3D Face Reconstruction with Nonlinear Disentangled Representations,0.166270793770476
+Efficient Exploration via State Marginal Matching,0.34364037593365243
+Adversarial Filters of Dataset Biases,0.3950168130290949
+Insights on Visual Representations for Embodied Navigation Tasks,0.2478698407395576
+Crafting Data-free Universal Adversaries with Dilate Loss,0.2534375104801832
+Stochastic Gradient Descent with Biased but Consistent Gradient Estimators,0.23369595872500032
+Wasserstein Robust Reinforcement Learning,0.20441851037057865
+A Training Scheme for the Uncertain Neuromorphic Computing Chips,0.20864799236063214
+A Stochastic Trust Region Method for Non-convex Minimization,0.2524790221955167
+MoET: Interpretable and Verifiable Reinforcement Learning via Mixture of Expert Trees,0.31050811014492413
+Deceptive Opponent Modeling with Proactive Network Interdiction for Stochastic Goal Recognition Control,0.1372229082095129
+Regularization Matters in Policy Optimization,0.36031965265787
+Sentence embedding with contrastive multi-views learning,0.12645724772676872
+Robust Domain Randomization for Reinforcement Learning,0.16904509927616654
+Coloring graph neural networks for node disambiguation,0.20074131919104074
+Undersensitivity in Neural Reading Comprehension,0.25979916808037923
+RotationOut as a Regularization Method for Neural Network,0.24092754712919068
+Meta-Learning with Network Pruning for Overfitting Reduction,0.17411820073940368
+An implicit function learning approach for parametric modal regression,0.20834917332047337
+On the Evaluation of Conditional GANs,0.23610623736227107
+CZ-GEM:  A  FRAMEWORK  FOR DISENTANGLED REPRESENTATION LEARNING,0.1867604351588839
+On Weight-Sharing and Bilevel Optimization in Architecture Search,0.2900390175305491
+Are there any 'object detectors' in the hidden layers of CNNs trained to identify objects or scenes?,0.290502881865775
+Dimensional Reweighting Graph Convolution Networks,0.2436453970571066
+Leveraging inductive bias of neural networks for learning without explicit human annotations,0.2758294797287291
+XLDA: Cross-Lingual Data Augmentation for Natural Language Inference and Question Answering,0.38978221180158423
+Ergodic Inference: Accelerate Convergence by Optimisation,0.3109659834756276
+Synthetic vs Real: Deep Learning on Controlled Noise,0.2691422646172256
+Layerwise Learning Rates for Object Features in Unsupervised and Supervised Neural Networks And Consequent Predictions for the Infant Visual System,0.1943883584761546
+Emergence of Compositional Language with Deep Generational Transmission,0.32596338511894957
+AutoGrow: Automatic Layer Growing in Deep Convolutional Networks,0.19414004624063277
+Model-Agnostic Feature Selection with Additional Mutual Information,0.16831244799954867
+Certifying Neural Network Audio Classifiers,0.25758813494747995
+Wasserstein-Bounded Generative Adversarial Networks,0.18867825669577962
+An Explicitly Relational Neural Network Architecture,0.37296589982154044
+Do Deep Neural Networks for Segmentation Understand Insideness?,0.3201470453803456
+Split LBI for Deep Learning: Structural Sparsity via Differential Inclusion Paths,0.24767039755355819
+Contextual Text Style Transfer,0.216447202903257
+FLAT MANIFOLD VAES,0.2968345048460755
+An Information Theoretic Approach to Distributed Representation Learning,0.24383318088154704
+Connecting the Dots Between MLE and RL for Sequence Prediction,0.2979679227311443
+BEYOND SUPERVISED LEARNING: RECOGNIZING UNSEEN ATTRIBUTE-OBJECT PAIRS WITH VISION-LANGUAGE FUSION AND ATTRACTOR NETWORKS,0.1887471097468987
+Distance-based Composable Representations with Neural Networks,0.24558302071421773
+Efficient Deep Representation Learning by Adaptive Latent Space Sampling,0.2585179435716272
+Out-of-Distribution Detection Using Layerwise Uncertainty in Deep Neural Networks,0.19178840812219627
+Effect of top-down connections in Hierarchical Sparse Coding,0.19699402120127923
+Multitask Soft Option Learning,0.33382039206670305
+Compositional Transfer in Hierarchical Reinforcement Learning,0.3468969103347108
+Federated User Representation Learning,0.2776500377870788
+Fairness with Wasserstein Adversarial Networks,0.16410648947371387
+Quantum Expectation-Maximization for Gaussian Mixture Models,0.1833801008998276
+Deep Evidential Uncertainty,0.32277932985727986
+Variational Information Bottleneck for Unsupervised Clustering: Deep Gaussian Mixture Embedding,0.19816176274182673
+Multi-scale Attributed Node Embedding,0.29865381779145983
+Model Inversion Networks for Model-Based Optimization,0.1795986984153833
+Variational Autoencoders with Normalizing Flow Decoders,0.2352263965489622
+Adversarial Attacks on Copyright Detection Systems,0.30177538363662965
+MODiR: Multi-Objective Dimensionality Reduction for Joint Data Visualisation,0.18180021463386617
+Actor-Critic Approach for Temporal Predictive Clustering,0.2508794142123238
+NeuroFabric: Identifying Ideal Topologies for Training A Priori Sparse Networks,0.19650177463312934
+Chart Auto-Encoders for Manifold Structured  Data,0.2555360335059133
+Putting Machine Translation in Context with the Noisy Channel Model,0.3290716138348377
+Optimizing Data Usage via Differentiable Rewards,0.32465584443504153
+Unsupervised Learning of Efficient and Robust Speech Representations,0.3137353792022365
+A Kolmogorov Complexity Approach to Generalization in Deep Learning,0.32660475249754084
+Learning Invariants through Soft Unification,0.17279770504856123
+Collapsed amortized variational inference for switching nonlinear dynamical systems,0.3019649682052444
+ODE Analysis of Stochastic Gradient Methods with Optimism and Anchoring  for Minimax Problems and GANs,0.33635240348224804
+Event Discovery for History Representation in Reinforcement Learning,0.2554088494279763
+Learning to Rank Learning Curves,0.2603444469275215
+Scoring-Aggregating-Planning: Learning task-agnostic priors from interactions and sparse rewards for zero-shot generalization,0.4027590701265869
+Way Off-Policy Batch Deep Reinforcement Learning of Human Preferences in Dialog,0.27662340295040916
+Well-Read Students Learn Better: On the Importance of Pre-training Compact Models,0.3201822853004789
+Model Imitation for Model-Based Reinforcement Learning,0.48411372515826545
+Black Box Recursive Translations for Molecular Optimization,0.2990768987333459
+Learning from Positive and Unlabeled Data  with Adversarial Training,0.2229722642298914
+PNAT: Non-autoregressive Transformer by Position Learning,0.1995329611491795
+Learning Boolean Circuits with Neural Networks,0.3665431230448422
+Model-based Saliency for the Detection of Adversarial Examples,0.2937719837273472
+Learning Temporal Coherence via Self-Supervision for GAN-based Video Generation,0.3046077376514264
+R-TRANSFORMER: RECURRENT NEURAL NETWORK ENHANCED TRANSFORMER,0.29576789959611394
+A closer look at network resolution for efficient network design,0.19978776884675284
+Learning in Confusion: Batch Active Learning with Noisy Oracle,0.14659297854750564
+On Predictive Information Sub-optimality of RNNs,0.27235447700216964
+Match prediction from group comparison data using neural networks,0.2629460807304734
+Defending Against Adversarial Examples by Regularized Deep Embedding,0.23371477157565532
+Feature Partitioning for Efficient Multi-Task Architectures,0.2096627771037491
+Learnable Group Transform For Time-Series,0.3272588946689638
+SesameBERT: Attention for Anywhere,0.15542641233153698
+Towards A Unified Min-Max Framework for Adversarial Exploration and Robustness,0.21043994599453955
+Towards Scalable Imitation Learning for Multi-Agent Systems with Graph Neural Networks,0.19475559078038154
+Dual-module Inference for Efficient Recurrent Neural Networks,0.20408459760183606
+On Federated Learning of Deep Networks from Non-IID Data: Parameter Divergence and the Effects of Hyperparametric Methods,0.15427514979629683
+DeepXML: Scalable & Accurate Deep Extreme Classification for Matching User Queries to Advertiser Bid Phrases,0.37320307709483724
+Few-Shot Regression via Learning Sparsifying Basis Functions,0.22121624731623418
+Energy-Aware Neural Architecture Optimization with Fast Splitting Steepest Descent,0.1772640142470671
+Equilibrium Propagation with Continual Weight Updates,0.2938662382434018
+IsoNN: Isomorphic Neural Network for Graph Representation Learning and Classification,0.16886942804785107
+LDMGAN: Reducing Mode Collapse in GANs with Latent Distribution Matching,0.12138118173379825
+Reinforcement Learning with Chromatic Networks,0.18482834641721838
+Generalized Natural Language Grounded Navigation via Environment-agnostic Multitask Learning,0.21252277787350524
+Mincut Pooling in Graph Neural Networks,0.27423475190526536
+Off-Policy Actor-Critic with Shared Experience Replay,0.512938248338619
+Striving for Simplicity in Off-Policy Deep Reinforcement Learning,0.27526169154302366
+Scheduling the Learning Rate Via Hypergradients: New Insights and a New Algorithm,0.27480507852417113
+Improving Federated Learning Personalization via Model Agnostic Meta Learning,0.18079530077650596
+Understanding and Improving Transformer From a Multi-Particle Dynamic System Point of View,0.23354390787496856
+Optimising Neural Network Architectures for Provable Adversarial Robustness,0.17737353448520005
+AN EFFICIENT HOMOTOPY TRAINING ALGORITHM FOR NEURAL NETWORKS,0.18330870695519308
+Improving End-to-End Object Tracking Using Relational Reasoning,0.2735403440063539
+Bandlimiting Neural Networks Against Adversarial Attacks,0.22925702447661397
+NoiGAN: NOISE AWARE KNOWLEDGE GRAPH EMBEDDING WITH GAN,0.2324246280276398
+Gradient Surgery for Multi-Task Learning,0.3244263233869267
+Value-Driven Hindsight Modelling,0.42190428459446644
+JAUNE: Justified And Unified Neural language Evaluation,0.11210342770685348
+Extreme Values are Accurate and Robust in Deep Networks,0.2067146930116496
+"Scaling Laws for the Principled Design, Initialization, and Preconditioning of ReLU Networks",0.2898504331546441
+Overcoming Catastrophic Forgetting via Hessian-free Curvature Estimates,0.17588236685035433
+Learning Functionally Decomposed Hierarchies for Continuous Navigation Tasks,0.23836450540016352
+Hindsight Trust Region Policy Optimization,0.2510697574051781
+The Probabilistic Fault Tolerance of Neural Networks in the Continuous Limit,0.1737288816484926
+Parallel Neural Text-to-Speech,0.17738496125956668
+"Cross-Dimensional Self-Attention for Multivariate, Geo-tagged Time Series Imputation",0.2815709886181464
+Differential Privacy in Adversarial Learning with Provable Robustness,0.25446630497812367
+On Layer Normalization in the Transformer Architecture,0.36727011898606116
+Learning RNNs with Commutative State Transitions,0.21116215369003546
+Deep Bayesian Structure Networks,0.16981594738284186
+RPGAN: random paths as a latent space for GAN interpretability,0.33480959859344
+MissDeepCausal: causal inference from incomplete data using deep latent variable models,0.37701327870360646
+Active Learning Graph Neural Networks via Node Feature Propagation,0.32661019827774984
+DUAL ADVERSARIAL MODEL FOR GENERATING 3D POINT CLOUD,0.2491860837640646
+LabelFool: A Trick in the Label Space,0.18188593208211531
+Unsupervised Generative 3D Shape Learning from Natural Images,0.29496063754979723
+Prestopping: How Does Early Stopping Help Generalization Against Label Noise?,0.1776837567914961
+Deep Reinforcement Learning with Implicit Human Feedback,0.19733509588133874
+"Manifold Modeling in Embedded Space: A Perspective for Interpreting Deep Image Prior""""",0.3558786826636196
+Self-Imitation Learning via Trajectory-Conditioned Policy for Hard-Exploration Tasks,0.32716893080446996
+Improving Semantic Parsing with Neural Generator-Reranker Architecture,0.19476841869064893
+Learning to Make Generalizable and Diverse Predictions for Retrosynthesis,0.3203987786830724
+Benefit of Interpolation in Nearest Neighbor Algorithms,0.17877944239560636
+Learning to Reach Goals Without Reinforcement Learning,0.22809890843988004
+Refining the variational posterior through iterative optimization,0.33238662212860465
+Off-policy Bandits with Deficient Support,0.36544166379576953
+iSparse: Output Informed Sparsification of Neural Networks,0.19059555016383495
+Towards understanding the true loss surface of deep neural networks using random matrix theory and iterative spectral methods,0.2460604566949139
+PROTOTYPE-ASSISTED ADVERSARIAL LEARNING FOR UNSUPERVISED DOMAIN ADAPTATION,0.24468517363464487
+Likelihood Contribution based Multi-scale Architecture for Generative Flows,0.2178056460937931
+Understanding Top-k Sparsification in Distributed Deep Learning,0.22430997889922358
+AN ATTENTION-BASED DEEP NET FOR LEARNING TO RANK,0.1615135871354493
+Modeling question asking using neural program generation,0.3275125415294316
+Acutum: When Generalization Meets Adaptability,0.1774924711179373
+Pseudo-Labeling and Confirmation Bias in Deep Semi-Supervised Learning,0.2833213685336564
+Revisiting the Generalization of Adaptive Gradient Methods,0.24159049341740885
+ConQUR: Mitigating Delusional Bias in Deep Q-Learning,0.30539440084190034
+Weight-space symmetry in neural network loss landscapes revisited,0.2989029922352889
+Collaborative Filtering With A Synthetic Feedback Loop,0.27085078644487226
+Empowering Graph Representation Learning with Paired Training and Graph Co-Attention,0.180600446951111
+Global Concavity and Optimization in a Class of Dynamic Discrete Choice Models,0.24774677537607356
+Training Provably Robust Models by Polyhedral Envelope Regularization,0.2599406108302287
+Unifying Graph Convolutional Networks as Matrix Factorization,0.19188537188427612
+Adversarial Inductive Transfer Learning with input and output space adaptation,0.335336116041822
+Leveraging Simple Model Predictions for Enhancing its Performance,0.2854541796988994
+Learning to Transfer via Modelling Multi-level Task Dependency,0.24064414432708467
+Disentangling Style and Content in Anime Illustrations,0.22797494033846444
+Targeted sampling of enlarged neighborhood via Monte Carlo tree search for TSP,0.2127237463064472
+Learning to Defense by Learning to Attack,0.30519309698478486
+Model Architecture Controls Gradient Descent Dynamics: A Combinatorial Path-Based Formula,0.25257959933793744
+Natural- to formal-language generation using Tensor Product Representations,0.33032948699900966
+Unsupervised Out-of-Distribution Detection with Batch Normalization,0.2308302592294612
+Distribution Matching Prototypical Network for Unsupervised Domain Adaptation,0.16004215893697374
+Neural Markov Logic Networks,0.21617947174633576
+Deep Randomized Least Squares Value Iteration,0.2009055383429099
+Safe Policy Learning for Continuous Control,0.3533298475820245
+Unsupervised Distillation of Syntactic Information from Contextualized Word Representations,0.3390918402170275
+Situating Sentence Embedders with Nearest Neighbor Overlap,0.23220727702165178
+Lattice Representation Learning,0.2680099325979178
+Towards Understanding the Transferability of Deep Representations,0.3529740322824695
+Improved Training of Certifiably Robust Models,0.2088391984852291
+Learning from Label Proportions with Consistency Regularization,0.28095644678914866
+Learning Compact Embedding Layers via Differentiable Product Quantization,0.28874656843001034
+{COMPANYNAME}11K: An Unsupervised Representation Learning Dataset for Arrhythmia Subtype Discovery,0.20195690553095885
+NADS: Neural Architecture Distribution Search for Uncertainty Awareness,0.22846930011781316
+Learning World Graph Decompositions To Accelerate Reinforcement Learning,0.38609706133676214
+Learning DNA folding patterns with Recurrent Neural Networks ,0.22447668837598758
+TSInsight: A local-global attribution framework for interpretability in time-series data,0.15824642929718766
+Quantum Semi-Supervised Kernel Learning,0.3120154022724756
+Interpretable Network Structure for Modeling Contextual Dependency,0.1769112021456423
+Frequency Principle: Fourier Analysis Sheds Light on Deep Neural Networks,0.23567946802517797
+S-Flow GAN,0.12645724772676872
+Independence-aware Advantage Estimation,0.3299478993854945
+Role of two learning rates in convergence of model-agnostic meta-learning,0.148961585112602
+Neural Subgraph Isomorphism Counting,0.19912697170218005
+Semantic Hierarchy Emerges in the Deep Generative Representations for Scene Synthesis,0.37820669734024537
+Decoupling Adaptation from Modeling with Meta-Optimizers for Meta Learning,0.21896692271868815
+Black-box Adversarial Attacks with Bayesian Optimization,0.29705602134290343
+Adversarial Imitation Attack,0.192538723759305
+LOGAN:  Latent Optimisation for Generative Adversarial Networks,0.47724571516247905
+Attention Interpretability Across NLP Tasks,0.30717596507804057
+Unsupervised Universal Self-Attention Network for Graph Classification,0.20308097867126276
+Efficacy of Pixel-Level OOD Detection for Semantic Segmentation,0.1944817081000144
+CURSOR-BASED ADAPTIVE QUANTIZATION FOR DEEP NEURAL NETWORK,0.17179598664374227
+Hyperparameter Tuning and Implicit Regularization in Minibatch SGD,0.22738651580267935
+Quantum Optical Experiments Modeled by Long Short-Term Memory,0.29663414231316965
+Variational Hashing-based Collaborative Filtering with Self-Masking,0.20542629563125914
+Customizing Sequence Generation with Multi-Task Dynamical Systems,0.4318118685657727
+Batch Normalization is a Cause of Adversarial Vulnerability,0.23669168093160312
+Enhancing Language Emergence through Empathy,0.10422431791753366
+A Data-Efficient Mutual Information Neural Estimator for Statistical Dependency Testing,0.22850642748795388
+SMiRL: Surprise Minimizing RL in Entropic Environments,0.22690378290475197
+The Role of Embedding Complexity in Domain-invariant Representations,0.22691071251566997
+Learning to Infer User Interface Attributes from Images,0.28119422226808305
+Semi-supervised Learning by Coaching,0.3388390051863488
+Learning Representations in Reinforcement Learning: an Information Bottleneck Approach,0.26721489619315686
+Evaluating Lossy Compression Rates of Deep Generative Models,0.3671671127523552
+Kronecker Attention Networks,0.2764898823554156
+Stochastic Neural Physics Predictor,0.2709267034736745
+Spectral Nonlocal Block for Neural Network,0.2204240020110011
+Metagross: Meta Gated Recursive Controller Units for Sequence Modeling,0.23622882475255128
+Diving into Optimization of Topology in Neural Networks,0.3149656075119787
+The Usual Suspects? Reassessing Blame for VAE Posterior Collapse,0.32812066011745034
+Generative Restricted Kernel Machines,0.2808368241509065
+GNN-FiLM: Graph Neural Networks with Feature-wise Linear Modulation,0.3591218067143711
+Which Tasks Should Be Learned Together in Multi-task Learning?,0.39605997996130704
+Distillation $\approx$ Early Stopping? Harvesting Dark Knowledge Utilizing Anisotropic Information Retrieval For Overparameterized NN,0.21055424368624837
+How Does Learning Rate Decay Help Modern Neural Networks?,0.26386416535928553
+Incorporating Horizontal Connections in Convolution by Spatial Shuffling,0.19859177294786237
+Learning Cluster Structured Sparsity by Reweighting,0.18971389644685563
+Continuous Meta-Learning without Tasks,0.3206914830486657
+Generative Adversarial Networks For Data Scarcity Industrial Positron Images With Attention,0.11931621363192824
+Support-guided Adversarial Imitation Learning,0.2752191958137443
+IS THE LABEL TRUSTFUL: TRAINING BETTER DEEP LEARNING MODEL VIA UNCERTAINTY MINING NET,0.19272161465451584
+Learning with Social Influence through  Interior Policy Differentiation,0.21797335953088595
+Selfish Emergent Communication,0.35974390573864057
+Coordinated Exploration via Intrinsic Rewards for Multi-Agent Reinforcement Learning,0.3205011649718551
+Mutual Exclusivity as a Challenge for Deep Neural Networks,0.4256873355238946
+The Differentiable Cross-Entropy Method,0.3080749017071814
+DS-VIC: Unsupervised Discovery of Decision States for Transfer in RL,0.33010433334165407
+Exploration Based Language Learning for Text-Based Games,0.26694938267947577
+Deep Gradient Boosting -- Layer-wise Input Normalization of Neural Networks,0.17283937931124652
+Multi-Dimensional Explanation of Reviews,0.2571452553461094
+ISBNet: Instance-aware Selective Branching Networks,0.24981910774547406
+Inferring Dynamical Systems with Long-Range Dependencies through Line Attractor Regularization,0.24918397529190592
+SoftAdam: Unifying SGD and Adam for better stochastic gradient descent,0.16102455587866163
+BERT-AL: BERT for Arbitrarily Long Document Understanding,0.2336209685250217
+NEURAL EXECUTION ENGINES,0.194317760233038
+Learning Good Policies By Learning Good Perceptual Models,0.2724807680989556
+Quaternion Equivariant Capsule Networks for 3D Point Clouds,0.331071607284386
+Informed Temporal Modeling via Logical Specification of Factorial LSTMs,0.22500043018790872
+Needles in Haystacks: On Classifying Tiny Objects in Large Images,0.23610623736227107
+Probabilistic View of Multi-agent Reinforcement Learning: A Unified Approach,0.16565151630353098
+Hope For The Best But Prepare For The Worst: Cautious Adaptation In RL Agents,0.2889044975966048
+Abstractive Dialog Summarization with Semantic Scaffolds,0.1486653530896756
+Integrative Tensor-based Anomaly Detection System For Satellites,0.1544466439190575
+Gram-Gauss-Newton Method: Learning Overparameterized Neural Networks for Regression Problems,0.20779749056986463
+Improving Sequential Latent Variable Models with Autoregressive Flows,0.233722133368746
+Symmetry and Systematicity,0.19264289890482608
+Towards Interpretable Evaluations: A Case Study of Named Entity Recognition,0.21674974429523497
+Bootstrapping the Expressivity with Model-based Planning,0.301292138523175
+Score and Lyrics-Free Singing Voice Generation,0.15476763586320025
+RL-LIM: Reinforcement Learning-based Locally Interpretable Modeling,0.320368789317178
+Characterizing Missing Information in Deep Networks Using Backpropagated Gradients,0.18449726825984086
+Improving Multi-Manifold GANs with a Learned Noise Prior,0.2752819813747722
+Unsupervised Domain Adaptation through Self-Supervision,0.41107657997174435
+Adversarial Paritial Multi-label Learning,0.29230406159759303
+Iterative Target Augmentation for Effective Conditional Generation,0.3654421163586098
+Hyperbolic Discounting and Learning Over Multiple Horizons,0.4088000983151331
+Can I Trust the Explainer? Verifying Post-Hoc Explanatory Methods,0.28488317147021225
+A Fine-Grained Spectral Perspective on Neural Networks,0.2783514077277415
+Low Rank Training of Deep Neural Networks for Emerging Memory Technology,0.26509645131660947
+Cyclic Graph Dynamic Multilayer Perceptron for Periodic Signals,0.236551744520713
+Atomic Compression Networks,0.23847171596826883
+Simplicial Complex Networks,0.12568125734514982
+A Non-asymptotic comparison of SVRG and SGD: tradeoffs between compute and speed,0.4191143991444378
+PAC-Bayesian Neural Network Bounds,0.27959439151157917
+Promoting Coordination through Policy Regularization in Multi-Agent Deep Reinforcement Learning,0.38640356371308476
+Stabilizing Transformers for Reinforcement Learning,0.28414652265333495
+Deep k-NN for Noisy Labels,0.22234571728233885
+Annealed Denoising score matching: learning Energy based model in high-dimensional spaces,0.25655176480395503
+Sparse Networks from Scratch: Faster Training without Losing Performance,0.37139590612349627
+TPO: TREE SEARCH POLICY OPTIMIZATION FOR CONTINUOUS ACTION SPACES,0.20859820415808025
+Sample-Based Point Cloud Decoder Networks,0.20627713379367205
+Bayesian Residual Policy Optimization: Scalable Bayesian Reinforcement Learning with Clairvoyant Experts,0.28693385703278795
+Efficient Inference and Exploration for Reinforcement Learning,0.24123879612947427
+Poisoning Attacks with Generative Adversarial Nets,0.30849291039939564
+Keyframing the Future: Discovering Temporal Hierarchy with Keyframe-Inpainter Prediction,0.2249676683278701
+An Empirical Study on Post-processing Methods for Word Embeddings,0.22762807059795048
+Winning the Lottery with Continuous Sparsification,0.37954097463508235
+Rethinking Curriculum Learning With Incremental Labels And Adaptive Compensation,0.2544728726162753
+Zero-Shot Policy Transfer with Disentangled Attention,0.1748088603444444
+P-BN: Towards Effective Batch Normalization in the Path Space,0.2527628451715388
+Convolutional Tensor-Train LSTM for Long-Term Video Prediction,0.20014789238483205
+Variational Constrained Reinforcement Learning with Application to Planning at Roundabout,0.16710505611906595
+Learning a Spatio-Temporal Embedding for Video Instance Segmentation,0.3046383884769665
+Deep Ensembles: A Loss Landscape Perspective,0.34227975038889447
+Adversarial Privacy Preservation under Attribute Inference Attack,0.3109463281036132
+Deep Innovation Protection,0.3390810451386975
+Meta-Learning Runge-Kutta,0.22584339919035265
+"Credible Sample Elicitation by Deep Learning, for Deep Learning",0.23811132123656714
+Continuous Graph Flow,0.26563682940659317
+Extreme Value k-means Clustering,0.1686823416665566
+Hallucinative Topological Memory for Zero-Shot Visual Planning,0.21410185898158915
+On the Decision Boundaries of Deep Neural Networks: A Tropical Geometry Perspective,0.2844985784040547
+Unsupervised Learning of Automotive 3D Crash Simulations using LSTMs,0.19307883426256375
+Dynamic Instance Hardness,0.2378365220806417
+Beyond Classical Diffusion: Ballistic Graph Neural Network,0.19198387611468776
+INSTANCE CROSS ENTROPY FOR DEEP METRIC LEARNING,0.20439909268224526
+Retrieving Signals in the Frequency Domain with Deep Complex Extractors,0.358368637374115
+A Copula approach for hyperparameter transfer learning,0.22146047178280953
+Out-of-distribution Detection in Few-shot Classification,0.2971235591572623
+GQ-Net: Training Quantization-Friendly Deep Networks,0.21754314312399262
+The divergences minimized by non-saturating GAN training,0.22954707605100963
+"Translation Between Waves,  wave2wave",0.17740299470200177
+MixUp as Directional Adversarial Training,0.17548428318306364
+Deep Multiple Instance Learning with Gaussian Weighting,0.31516649964123544
+DyNet: Dynamic Convolution for Accelerating Convolution Neural Networks,0.20098280638285004
+Growing Action Spaces,0.27151552087537995
+Model Ensemble-Based Intrinsic Reward for Sparse Reward Reinforcement Learning,0.24603487315901382
+Differentiable Hebbian Consolidation for Continual Learning,0.3338290983039493
+Meta-Graph: Few shot Link Prediction via Meta Learning,0.41667320366114835
+EXPLOITING SEMANTIC COHERENCE TO IMPROVE PREDICTION IN SATELLITE SCENE IMAGE ANALYSIS: APPLICATION TO DISEASE DENSITY ESTIMATION,0.15670109514358863
+VAENAS: Sampling Matters in Neural Architecture Search,0.2255304369375602
+Aggregating explanation methods for neural networks stabilizes explanations,0.3561089198216395
+Towards Stable and comprehensive Domain Alignment: Max-Margin Domain-Adversarial Training,0.16635559877047987
+In-Domain Representation Learning For Remote Sensing,0.21899471868358927
+Ternary MobileNets via Per-Layer Hybrid Filter Banks,0.26272821732890067
+Avoiding Negative Side-Effects and Promoting Safe Exploration with Imaginative Planning,0.1790970904647929
+Exploring the Correlation between Likelihood of Flow-based Generative Models and Image Semantics,0.22316597384737874
+Provably Communication-efficient Data-parallel SGD via Nonuniform Quantization,0.28436604673552174
+Scalable Neural Learning for Verifiable Consistency with Temporal Specifications,0.3373287692743805
+EvoNet: A Neural Network for Predicting the Evolution of Dynamic Graphs,0.222461543534302
+SGD Learns One-Layer Networks in WGANs,0.28363942908005363
+Improving Robustness Without Sacrificing Accuracy with Patch Gaussian Augmentation,0.30476557553665434
+Tensorized Embedding Layers for Efficient Model Compression,0.3322092701146423
+Training Deep Networks with Stochastic Gradient Normalized by Layerwise Adaptive Second Moments,0.2608986726433561
+Learning Time-Aware Assistance Functions for Numerical Fluid Solvers,0.26787197692145615
+Why do These Match? Explaining the Behavior of Image Similarity Models,0.2306770729161244
+Towards an Adversarially Robust Normalization Approach,0.23750391129353898
+When Does Self-supervision Improve Few-shot Learning?,0.320387709044389
+D3PG: Deep Differentiable Deterministic Policy Gradients,0.2994142406293201
+Sparse Transformer: Concentrated Attention Through Explicit Selection,0.23949840727440846
+SAFE-DNN: A Deep Neural Network with Spike Assisted Feature Extraction for Noise Robust Inference,0.20697740850657256
+TWIN GRAPH CONVOLUTIONAL NETWORKS: GCN WITH DUAL GRAPH SUPPORT FOR SEMI-SUPERVISED LEARNING,0.1511013500435159
+"Calibration, Entropy Rates, and Memory in Language Models",0.2647951280011551
+Role-Wise Data Augmentation for Knowledge Distillation,0.20629278827033573
+HighRes-net: Multi-Frame Super-Resolution by Recursive Fusion,0.3791732164330012
+Sparse and Structured Visual Attention,0.27230724548713947
+Policy Tree Network,0.24305462630058458
+Bias-Resilient Neural Network,0.2644116253952753
+ASYNCHRONOUS MULTI-AGENT GENERATIVE ADVERSARIAL IMITATION LEARNING,0.2700705779654904
+Adversarial Video Generation on Complex Datasets,0.4224972850495631
+Variational Diffusion Autoencoders with Random Walk Sampling,0.23312885975162975
+"INFERENCE, PREDICTION, AND ENTROPY RATE OF CONTINUOUS-TIME, DISCRETE-EVENT PROCESSES",0.2052642226769085
+Scale-Equivariant Neural Networks with Decomposed Convolutional Filters,0.2645493153541557
+Dynamic Scale Inference by Entropy Minimization,0.36031965265787
+The Effect of Residual Architecture on the Per-Layer Gradient of Deep Networks,0.2334577210389541
+City Metro Network Expansion with Reinforcement Learning,0.22107782082295901
+Dropout: Explicit Forms and Capacity Control,0.235283121848959
+Verification of Generative-Model-Based Visual Transformations,0.28119422226808305
+Beyond GANs: Transforming without a Target Distribution,0.358121763501141
+On Variational Learning of Controllable Representations for Text without Supervision,0.3040794154673836
+Demystifying Graph Neural Network Via Graph Filter Assessment,0.28992107936320716
+Individualised Dose-Response Estimation using Generative Adversarial Nets,0.1987343981746801
+"``Best-of-Many-Samples"" Distribution Matching""",0.32484523376935437
+Swoosh! Rattle! Thump! - Actions that Sound,0.2977425447372532
+Near-Zero-Cost Differentially Private Deep Learning with Teacher Ensembles,0.19502356365183365
+On the Tunability of Optimizers in Deep Learning,0.25420568652592784
+GUIDEGAN:  ATTENTION  BASED  SPATIAL  GUIDANCE FOR  IMAGE-TO-IMAGE TRANSLATION,0.2184443813060826
+ROBUST GENERATIVE ADVERSARIAL NETWORK,0.1809215077249239
+Decoupling Hierarchical Recurrent Neural Networks With Locally Computable Losses,0.16949701582399437
+Branched Multi-Task Networks: Deciding What Layers To Share,0.2923891681805938
+Variational pSOM: Deep Probabilistic Clustering with Self-Organizing Maps,0.18703039545574368
+Tensor Graph Convolutional Networks for Prediction on Dynamic Graphs,0.24672027107788996
+Mint: Matrix-Interleaving for Multi-Task Learning,0.3146427210292061
+Effective and Robust Detection of Adversarial Examples via Benford-Fourier Coefficients,0.2830509368002658
+Multi-objective Neural Architecture Search via Predictive Network Performance Optimization,0.16789156463284707
+CONFEDERATED MACHINE LEARNING ON HORIZONTALLY AND VERTICALLY SEPARATED MEDICAL DATA FOR LARGE-SCALE HEALTH SYSTEM INTELLIGENCE,0.19718728645517777
+On Evaluating Explainability Algorithms,0.18944206850818596
+FRICATIVE PHONEME DETECTION WITH ZERO DELAY,0.25101064002522205
+Deep Mining: Detecting Anomalous Patterns in Neural Network Activations with Subset Scanning,0.23312885975162975
+"GRAPHS, ENTITIES, AND STEP MIXTURE",0.21772514344785093
+Unknown-Aware Deep Neural Network,0.27577328730220263
+Low Bias Gradient Estimates for Very Deep Boolean Stochastic Networks,0.3385683528245538
+SoftLoc: Robust Temporal Localization under Label Misalignment,0.2342729685213275
+Learning Video Representations using Contrastive Bidirectional Transformer,0.4440183547790103
+ShardNet: One Filter Set to Rule Them All,0.25056497857253995
+Explaining Time Series by Counterfactuals,0.26247493810940903
+On the Linguistic Capacity of Real-time Counter Automata,0.21180793606857054
+The fairness-accuracy landscape of neural classifiers,0.24075170885869804
+Corpus Based Amharic Sentiment Lexicon Generation,0.13354811891944343
+MaskConvNet: Training Efficient ConvNets from Scratch via Budget-constrained Filter Pruning,0.1453955014796836
+Curvature-based Robustness Certificates against Adversarial Examples,0.2718858481613318
+Pipelined Training with Stale Weights of Deep Convolutional Neural Networks,0.2371176685593047
+Information Plane Analysis of Deep Neural Networks via Matrix--Based Renyi's Entropy and Tensor Kernels,0.28951631072627654
+Disentangled Representation Learning with Sequential Residual Variational Autoencoder,0.2504538746311521
+MULTIPOLAR: Multi-Source Policy Aggregation for Transfer Reinforcement Learning between Diverse Environmental Dynamics,0.2662708184472395
+Simultaneous Classification and Out-of-Distribution Detection Using Deep Neural Networks,0.2031808371158713
+"Learning vector representation of local content and matrix representation of local motion, with implications for V1",0.24457021749232322
+Data Valuation using Reinforcement Learning,0.34027251717811224
+Reject Illegal Inputs: Scaling Generative Classifiers with Supervised Deep Infomax,0.30421147474845156
+Surrogate-Based Constrained Langevin Sampling With Applications to Optimal Material Configuration Design,0.25833946175197364
+VILD: Variational Imitation Learning with Diverse-quality Demonstrations,0.29418750102217817
+OPTIMAL BINARY QUANTIZATION FOR DEEP NEURAL NETWORKS,0.35718405403938475
+Learning Through Limited Self-Supervision: Improving Time-Series Classification Without Additional Data via Auxiliary Tasks,0.17215355332250493
+MxPool: Multiplex Pooling for Hierarchical Graph Representation Learning,0.1535379243686825
+Non-linear System Identification from Partial Observations via Iterative Smoothing and Learning,0.2969797000654934
+Policy Message Passing: A New Algorithm for Probabilistic Graph Inference,0.24289544716121267
+Learning Mahalanobis Metric Spaces via Geometric Approximation Algorithms,0.2356483982416257
+On Understanding Knowledge Graph Representation,0.31989244429845476
+Learning to Prove Theorems by Learning to Generate Theorems,0.26009244022283873
+Augmenting Self-attention with Persistent Memory,0.3913003360757941
+Realism Index: Interpolation in Generative Models With Arbitrary Prior,0.27051157336484044
+Fully Convolutional Graph Neural Networks using Bipartite Graph Convolutions,0.165117176715106
+Selective sampling for accelerating  training of deep neural networks,0.19309873237060354
+Hierarchical Graph-to-Graph Translation for Molecules,0.3247964357868748
+MelNet: A Generative Model for Audio in the Frequency Domain,0.3599672905745395
+End-to-end learning of energy-based representations for irregularly-sampled signals and images,0.11842831703887051
+Reparameterized Variational Divergence Minimization for Stable Imitation,0.21552424194579228
+TrojanNet: Exposing the Danger of Trojan Horse Attack on Neural Networks,0.3152693294341099
+SRDGAN: learning the noise prior for Super Resolution with Dual Generative Adversarial Networks,0.15055059618748914
+Detecting malicious PDF using CNN,0.21021790683438096
+Novelty Search in representational space for sample efficient exploration,0.2713781016405307
+"Feature-Robustness, Flatness and Generalization Error for Deep Neural Networks",0.24171486336875125
+Robust Cross-lingual Embeddings from Parallel Sentences ,0.3113294980763014
+PowerSGD: Powered Stochastic Gradient Descent Methods for Accelerated Non-Convex Optimization,0.18698226651336972
+Unaligned Image-to-Sequence Transformation with Loop Consistency,0.22051062435594787
+Progressive Compressed Records: Taking a Byte Out of Deep Learning Data,0.2771447156660068
+Training a Constrained Natural Media Painting Agent using Reinforcement Learning ,0.2017023473529754
+Disentangling Improves VAEs' Robustness to Adversarial Attacks,0.22142447379196636
+Exploring Cellular Protein Localization Through Semantic Image Synthesis,0.2758813272457487
+Encoder-Agnostic Adaptation for Conditional Language Generation,0.4226269119588032
+Better Knowledge Retention through Metric Learning,0.41823370488989225
+Robust Learning with Jacobian Regularization,0.26813317255940655
+A NEW POINTWISE CONVOLUTION IN DEEP NEURAL NETWORKS THROUGH EXTREMELY FAST AND NON PARAMETRIC TRANSFORMS,0.23652708298028427
+"Making the Shoe Fit: Architectures, Initializations, and Tuning for Learning with Privacy",0.343958195395602
+Toward Understanding Generalization of Over-parameterized Deep ReLU network trained with SGD in Student-teacher Setting,0.24429776044674176
+Ordinary differential equations on graph networks,0.24777621061937136
+Poincaré Wasserstein Autoencoder,0.22267548908142187
+Learning Neural Surrogate Model for Warm-Starting Bayesian Optimization,0.21480995737861466
+Music Source Separation in the Waveform Domain,0.37526856260574193
+Self-Attentional Credit Assignment for Transfer in Reinforcement Learning,0.32125066371791355
+Gradient Descent can Learn Less Over-parameterized Two-layer Neural Networks on Classification Problems,0.2722086789862311
+Learning to Discretize: Solving 1D Scalar Conservation Laws via Deep Reinforcement Learning,0.2496709654615438
+Discovering the compositional structure of vector representations with Role Learning Networks,0.3393160837584216
+A Graph Neural Network Assisted Monte Carlo Tree Search Approach to Traveling Salesman Problem,0.2539912243738103
+A bi-diffusion based layer-wise sampling method for deep learning in large graphs,0.18718865812763946
+Noise Regularization for Conditional Density Estimation,0.32060908522940945
+Transition Based Dependency Parser for Amharic Language Using Deep Learning,0.1409368550605266
+V1Net: A computational model of cortical horizontal connections,0.17920473154637
+HOW IMPORTANT ARE NETWORK WEIGHTS? TO WHAT EXTENT DO THEY NEED AN UPDATE?,0.12645724772676872
+INTERNAL-CONSISTENCY CONSTRAINTS FOR EMERGENT COMMUNICATION,0.26691930767650396
+Neural Networks for Principal Component Analysis: A New Loss Function Provably Yields Ordered Exact Eigenvectors ,0.27193242711260285
+GENN: Predicting Correlated Drug-drug Interactions with Graph Energy Neural Networks,0.29760703860100407
+Efficient Systolic Array Based on Decomposable MAC for Quantized Deep Neural Networks,0.18521814975584977
+Towards Physics-informed Deep Learning for Turbulent Flow Prediction,0.3080637720626977
+Domain-Agnostic Few-Shot Classification by Learning Disparate Modulators,0.2221692735730755
+Online Meta-Critic Learning for Off-Policy Actor-Critic Methods,0.24707827560834145
+Random Bias Initialization Improving Binary Neural Network Training,0.1346579310554211
+Bayesian Inference for Large Scale Image Classification,0.4648779236828151
+Self-Supervised GAN Compression,0.35848898453091105
+"Generative Hierarchical Models for Parts, Objects, and Scenes",0.2509445333232032
+SDGM: Sparse Bayesian Classifier Based on a Discriminative Gaussian Mixture Model,0.19026836497552957
+Analytical Moment Regularizer for Training Robust Networks,0.22754126999603008
+ROBUST DISCRIMINATIVE REPRESENTATION LEARNING VIA GRADIENT RESCALING: AN EMPHASIS REGULARISATION PERSPECTIVE,0.20439909268224526
+Multi-step Greedy Policies in Model-Free Deep Reinforcement Learning,0.25267031029478754
+Hidden incentives for self-induced distributional shift,0.2156864088842812
+Learning Temporal Abstraction with Information-theoretic Constraints for Hierarchical Reinforcement Learning,0.21896127645897118
+Generalized Clustering by Learning to Optimize Expected Normalized Cuts,0.3412128501541128
+Adversarially Robust Neural Networks via Optimal Control: Bridging Robustness with Lyapunov Stability,0.22914774920631775
+Temporal Difference Weighted Ensemble For Reinforcement Learning,0.22501538299302998
+Learning Generative Image Object Manipulations from Language Instructions,0.20738652858949358
+A Simple Technique to Enable Saliency Methods to Pass the Sanity Checks,0.2788001945608572
+At Your Fingertips: Automatic Piano Fingering Detection,0.21209789741679277
+Latent Question Reformulation and Information Accumulation for Multi-Hop Machine Reading,0.2974241850609856
+Deep Variational Semi-Supervised Novelty Detection,0.21410185898158915
+Occlusion  resistant  learning  of  intuitive physics from videos,0.2768793457303094
+"Compressive Recovery Defense: A Defense Framework for $\ell_0, \ell_2$ and $\ell_\infty$ norm attacks.",0.2133334758925753
+Causally Correct Partial Models for Reinforcement Learning,0.4019411841164305
+Learning scalable and transferable multi-robot/machine sequential assignment planning via graph embedding,0.17608785882003122
+Improving Evolutionary Strategies with Generative Neural Networks,0.36492786530860244
+Compressing BERT: Studying the Effects of Weight Pruning on Transfer Learning,0.24938364229837404
+Smooth Kernels Improve Adversarial Robustness and Perceptually-Aligned Gradients,0.1977075242775344
+Modeling treatment events in disease progression,0.1553843575201093
+Collaborative Generated Hashing for Market Analysis and Fast Cold-start Recommendation,0.14793626295207268
+Are Few-shot Learning Benchmarks Too Simple ?,0.301805499446044
+Towards trustworthy predictions from deep neural networks with fast adversarial calibration,0.25872142120694697
+Collaborative Training of Balanced Random Forests for Open Set Domain Adaptation,0.34454061092118543
+Accelerated Variance Reduced Stochastic Extragradient Method for Sparse Machine Learning Problems,0.26923061625007705
+Convergence Analysis of a Momentum Algorithm with Adaptive Step Size for Nonconvex Optimization,0.16797212126129302
+Generalized Bayesian Posterior Expectation Distillation for Deep Neural Networks,0.32503523186651845
+Towards Simplicity in Deep Reinforcement Learning: Streamlined Off-Policy Learning,0.2945020909232933
+A shallow feature extraction network with a large receptive field for stereo matching tasks,0.15119581753443534
+Evaluating Semantic Representations of Source Code,0.2343256416421585
+Deep Generative Classifier for Out-of-distribution Sample Detection,0.26953731324384445
+Adaptive Loss Scaling for Mixed Precision Training,0.2124891266968672
+On importance-weighted autoencoders,0.3232674302846297
+Mixed Precision Training With 8-bit Floating Point,0.2630826194412783
+A Functional Characterization of Randomly Initialized Gradient Descent in Deep ReLU Networks,0.24769391429482798
+ASGen: Answer-containing Sentence Generation to Pre-Train Question Generator for Scale-up Data in Question Answering,0.339569782227856
+Invariance vs Robustness of Neural Networks,0.16508968598733648
+Modelling the influence of data structure on learning in neural networks,0.20268676755051807
+A Perturbation Analysis of Input Transformations for Adversarial Attacks,0.2596060064234903
+Understanding Isomorphism Bias in Graph Data Sets ,0.1533056634145459
+Data-Efficient Image Recognition with Contrastive Predictive Coding,0.362579658521363
+OBJECT-ORIENTED REPRESENTATION OF 3D SCENES,0.2771616166088812
+Barcodes as summary of objective functions' topology,0.15333143742273556
+Asynchronous Stochastic Subgradient Methods for General Nonsmooth Nonconvex Optimization,0.21931840001041467
+Top-down training for neural networks,0.1866450680446004
+A new perspective in understanding of Adam-Type algorithms and beyond,0.20473087631605238
+Subjective Reinforcement Learning for Open Complex Environments,0.21342948222483127
+Discriminative Variational Autoencoder for Continual Learning with Generative Replay,0.12799204086380528
+BOSH: An Efficient Meta Algorithm for Decision-based Attacks,0.28360181072327073
+Behavior Regularized Offline Reinforcement Learning,0.353308616857582
+HyperEmbed:  Tradeoffs Between Resources and Performance in NLP Tasks with Hyperdimensional Computing enabled embedding of n-gram statistics ,0.20750624608891546
+Semi-Supervised Learning with Normalizing Flows,0.23510016306609235
+Attacking Lifelong Learning Models with Gradient Reversion,0.21092842935180733
+Deep amortized clustering,0.2933990867043946
+Laconic Image Classification: Human vs. Machine Performance,0.29221930805816787
+Understanding and Stabilizing GANs' Training Dynamics with Control Theory,0.2063026297283332
+Benefits of Overparameterization in Single-Layer Latent Variable Generative Models,0.31053132697447966
+Detecting Noisy Training Data with Loss Curves,0.3152693294341099
+On Concept-Based Explanations in Deep Neural Networks,0.32375743816146046
+Trajectory representation learning for Multi-Task NMRDPs planning,0.20607562875393423
+Distribution-Guided Local Explanation for Black-Box Classifiers,0.2754505529911287
+Shallow VAEs with RealNVP Prior Can Perform as Well as Deep Hierarchical VAEs,0.23607414723688902
+Adaptive network sparsification with dependent variational beta-Bernoulli dropout,0.2737690699490409
+Scalable Generative Models for Graphs with Graph Attention Mechanism,0.19504747184565177
+On the Dynamics and Convergence of Weight Normalization for Training Neural Networks,0.26481863614920315
+Semi-Supervised Few-Shot Learning with Prototypical Random Walks,0.16592413292081246
+Agent as Scientist: Learning to Verify Hypotheses,0.26235122002015004
+Generating Robust Audio Adversarial Examples using Iterative Proportional Clipping,0.19025970153888372
+Lean Images for Geo-Localization,0.267089384264471
+Are Powerful Graph Neural Nets Necessary? A Dissection on Graph Classification,0.3270661791476351
+DEEP GRAPH SPECTRAL EVOLUTION NETWORKS FOR GRAPH TOPOLOGICAL TRANSFORMATION,0.2703369871826748
+Robust Federated Learning Through Representation Matching and Adaptive Hyper-parameters,0.2725918589597728
+Enforcing Physical Constraints in Neural Neural Networks through Differentiable PDE Layer,0.31800674756354563
+Evo-NAS: Evolutionary-Neural Hybrid Agent for Architecture Search,0.24046838124768202
+HUBERT Untangles BERT to Improve Transfer across NLP Tasks,0.24765409157869844
+Learning De-biased Representations with Biased Representations,0.3460735796516127
+ICNN: INPUT-CONDITIONED FEATURE REPRESENTATION LEARNING FOR TRANSFORMATION-INVARIANT NEURAL NETWORK,0.1450633001698563
+Learning Latent State Spaces for Planning through Reward Prediction,0.20368420185008745
+Certified Robustness to Adversarial Label-Flipping Attacks via Randomized Smoothing,0.1982332896739828
+Optimistic Adaptive Acceleration for Optimization,0.2030437559823474
+Hierarchical Bayes Autoencoders,0.2378739289898567
+Project and Forget: Solving Large Scale Metric Constrained Problems,0.22817338245393312
+Deep Auto-Deferring Policy for Combinatorial Optimization,0.2715479745106325
+Reinforcement Learning with Structured Hierarchical Grammar Representations of Actions,0.26843261152820763
+Global Adversarial Robustness Guarantees for Neural Networks,0.13559229478863855
+Learning Calibratable Policies using Programmatic Style-Consistency,0.32098260386888666
+Alternating Recurrent Dialog Model with Large-Scale Pre-Trained Language Models,0.2125539678234115
+Learning to Reason: Distilling Hierarchy via Self-Supervision and Reinforcement Learning,0.21278638400235958
+The Geometry of Sign Gradient Descent,0.22253781031137324
+Effective Use of Variational Embedding Capacity in Expressive End-to-End Speech Synthesis,0.28495079450827754
+The problem with DDPG: understanding failures in deterministic environments with sparse rewards,0.2434216802196269
+Enhanced Convolutional Neural Tangent Kernels,0.3329099357103845
+COMBINED FLEXIBLE ACTIVATION FUNCTIONS FOR DEEP NEURAL NETWORKS,0.165117176715106
+Meta-RCNN: Meta Learning for Few-Shot Object Detection,0.34673920083587023
+AutoSlim: Towards One-Shot Architecture Search for Channel Numbers,0.3026781064356828
+Learning from Imperfect Annotations: An End-to-End Approach,0.2781435581127965
+Feature Map Transform Coding for Energy-Efficient CNN Inference,0.2697029328037023
+Zero-Shot Out-of-Distribution Detection with Feature Correlations,0.2686342242993646
+Neural Video Encoding,0.17287508286068717
+Continuous Adaptation in Multi-agent Competitive Environments,0.14994048278214614
+Simple and Effective Stochastic Neural Networks,0.26357787310164243
+On The Difficulty of Warm-Starting Neural Network Training,0.2570031674944552
+Thwarting finite difference adversarial attacks with output randomization,0.21617089556002178
+Benchmarking Robustness in Object Detection: Autonomous Driving when Winter is Coming,0.26198216786240863
+Negative Sampling in Variational Autoencoders,0.25935605184158855
+An Empirical and Comparative Analysis of Data Valuation with Scalable Algorithms,0.26242043673246046
+Attraction-Repulsion Actor-Critic for Continuous Control Reinforcement Learning,0.3172365867691284
+NormLime: A New Feature Importance Metric for Explaining Deep Neural Networks,0.2870019102080193
+Unsupervised Learning of Node Embeddings by Detecting Communities,0.23211587169460715
+Global graph curvature,0.25182230780675846
+Invertible generative models for  inverse problems: mitigating representation error and dataset bias,0.2728398138296785
+Decaying momentum helps neural network training,0.2555991268175264
+GRAPH NEIGHBORHOOD ATTENTIVE POOLING,0.18385948191747617
+Quantum algorithm for finding the negative curvature direction,0.2313941849058467
+"Walking on the Edge: Fast, Low-Distortion Adversarial Examples",0.2517624687141034
+"Deep Reasoning Networks:  Thinking Fast and Slow, for Pattern De-mixing",0.27206932369381504
+Measuring Calibration in Deep Learning,0.2636682042799058
+Towards Understanding the Regularization of Adversarial Robustness on Neural Networks,0.31403697548158016
+BRIDGING ADVERSARIAL SAMPLES AND ADVERSARIAL NETWORKS,0.2641109255149799
+Kernel and Rich Regimes in Overparametrized Models,0.39072700494231355
+The Intriguing Effects of Focal Loss on the Calibration of Deep Neural Networks,0.249282683104876
+Domain-Invariant Representations: A Look on Compression and Weights,0.14890718510695444
+Last-iterate convergence rates for min-max optimization,0.35342482069375336
+Implicit Generative Modeling for Efficient Exploration,0.1577745738176556
+Is There Mode Collapse? A Case Study on Face Generation and Its Black-box Calibration,0.22330040608549184
+Storage Efficient and Dynamic Flexible Runtime Channel Pruning via Deep Reinforcement Learning,0.3415025475745083
+Generalized Zero-shot ICD Coding,0.33693158371926923
+"Unsupervised Disentanglement of Pose, Appearance and Background from Images and Videos",0.39101681302725794
+A Bayes-Optimal View on Adversarial Examples,0.35178484732889737
+"Carpe Diem, Seize the Samples Uncertain at the Moment"" for Adaptive Batch Selection""",0.18435424609867104
+TreeCaps: Tree-Structured Capsule Networks for Program Source Code Processing,0.17814213077987548
+Pre-trained Contextual Embedding of Source Code,0.2521529917984633
+AdaX: Adaptive Gradient Descent with Exponential Long Term Memory,0.16849923174662249
+MIST: Multiple Instance Spatial Transformer Networks,0.282177480699739
+Differentiable Bayesian Neural Network Inference for Data Streams,0.2877699547219719
+CAT: Compression-Aware Training for bandwidth reduction,0.3194855549276305
+Using Logical Specifications of Objectives in Multi-Objective Reinforcement Learning,0.237969233409409
+High-Frequency guided Curriculum Learning for Class-specific Object Boundary Detection,0.21364028309297034
+Weakly-supervised Knowledge Graph Alignment with Adversarial Learning,0.42236702795368386
+Differentially Private Mixed-Type Data Generation For Unsupervised Learning,0.19467408122433089
+Defense against Adversarial Examples by Encoder-Assisted Search in the Latent Coding Space,0.1595655666430567
+Matrix Multilayer Perceptron,0.29718435585321584
+Structural Language Models for Any-Code Generation,0.28941765284902987
+Hierarchical Disentangle Network for Object Representation Learning,0.2813956450571923
+Improved Training Techniques for Online Neural Machine Translation,0.3265885576826276
+Removing the Representation Error of GAN Image Priors Using the Deep Decoder,0.1665315020768541
+Learning a Behavioral Repertoire from Demonstrations,0.19680941298395588
+One-Shot Neural Architecture Search via Compressive Sensing,0.2174652947490456
+Deep Audio Prior,0.3053803048534499
+XD: Cross-lingual Knowledge Distillation for Polyglot Sentence Embeddings,0.2837645923939521
+Graph Neural Networks for Soft Semi-Supervised Learning on Hypergraphs,0.2031998566405818
+Self-Supervised State-Control through Intrinsic Mutual Information Rewards,0.18171732101620489
+A Generative Model for Molecular Distance Geometry,0.323965126454232
+Multigrid Neural Memory,0.294355537494712
+Neural Design of Contests and All-Pay Auctions using Multi-Agent Simulation,0.2643693951394972
+Geometry-aware Generation of Adversarial and Cooperative Point Clouds,0.3012586775835283
+Point Process Flows,0.30219258530630805
+Learning Effective Exploration Strategies For Contextual Bandits,0.15111014005263584
+From English to Foreign Languages: Transferring Pre-trained Language Models,0.28408657926829617
+Leveraging Adversarial Examples to Obtain Robust Second-Order Representations,0.16712148823079892
+Multi-Agent Hierarchical Reinforcement Learning for Humanoid Navigation,0.2661375538809432
+SemanticAdv: Generating Adversarial Examples via Attribute-Conditional Image Editing,0.26737421326457944
+Dual Graph Representation Learning,0.16164098701535137
+Semi-Implicit Back Propagation,0.19559085335147613
+The Effect of Neural Net Architecture on Gradient Confusion & Training Performance,0.2947762800314086
+Frequency Analysis for Graph Convolution Network,0.23788273613126404
+A SPIKING SEQUENTIAL MODEL: RECURRENT LEAKY INTEGRATE-AND-FIRE,0.16251167489959337
+Expected Tight Bounds for Robust Deep Neural Network Training,0.2493184926018651
+Neural Operator Search,0.2908904553792838
+Behavior-Guided Reinforcement Learning,0.3245830080933184
+"Semi-supervised semantic segmentation needs strong, high-dimensional perturbations",0.19755582522557286
+Interpretations are useful: penalizing explanations to align neural networks with prior knowledge,0.2676720846335397
+Axial Attention in Multidimensional Transformers,0.31307081247004515
+Adversarial Robustness as a Prior for Learned Representations,0.31820361702040456
+Equivariant neural networks and equivarification,0.22162669381674427
+Do recent advancements in model-based deep reinforcement learning really improve data efficiency?,0.15047668440807752
+Efficient meta reinforcement learning via meta goal generation,0.1467866048157451
+The Discriminative Jackknife: Quantifying Uncertainty in Deep Learning via Higher-Order Influence Functions,0.2681694234962887
+Generative Adversarial Nets for Multiple Text Corpora,0.1967051687437411
+Learning Similarity Metrics for Numerical Simulations,0.33060398433967914
+Universal Adversarial Attack Using Very Few Test Examples,0.18230045565929734
+Improved Generalization Bound of Permutation Invariant Deep Neural Networks,0.1923616051555941
+Peer Loss Functions: Learning from Noisy Labels without Knowing Noise Rates,0.2183353890363744
+Mode Connectivity and Sparse Neural Networks,0.293530183520857
+Generating valid Euclidean distance matrices,0.3731787693422255
+GResNet: Graph Residual Network for Reviving Deep GNNs from Suspended Animation,0.18925728417906182
+Deep Spike Decoder (DSD),0.14214963370975378
+Efficient High-Dimensional Data Representation Learning via Semi-Stochastic Block Coordinate Descent Methods,0.26776338169335173
+Towards Controllable and Interpretable Face Completion via  Structure-Aware and Frequency-Oriented Attentive GANs,0.26708233328266134
+Why Does Hierarchy (Sometimes) Work So Well in Reinforcement Learning?,0.28750944627723407
+Improving Exploration of Deep Reinforcement Learning using Planning for Policy Search,0.15387981078630708
+"Improved Training Speed, Accuracy, and Data Utilization via Loss Function Optimization",0.22379663572688613
+Knowledge Hypergraphs: Prediction Beyond Binary Relations,0.26091312889549534
+FR-GAN: Fair and Robust Training,0.22957597395732326
+Unsupervised Intuitive Physics from Past Experiences,0.3191594221816063
+Continual Learning with Delayed Feedback,0.19344152175371132
+Adapting to Label Shift with Bias-Corrected Calibration,0.31031747556007516
+On the Unintended Social Bias of Training Language Generation Models with News Articles,0.13494718217249704
+Attacking Graph Convolutional Networks via Rewiring,0.3148512897976354
+Modeling Fake News in Social Networks with Deep Multi-Agent Reinforcement Learning,0.14411913738272783
+Group-Connected Multilayer Perceptron Networks,0.22026470959027275
+Neural ODEs for Image Segmentation with Level Sets,0.2811939405601235
+Knowledge Transfer via Student-Teacher Collaboration,0.3215106359479004
+VIMPNN: A physics informed neural network for estimating potential energies of out-of-equilibrium systems,0.32268347031244443
+AutoLR: A Method for Automatic Tuning of Learning Rate,0.28963172670065324
+Continuous Convolutional Neural Network forNonuniform Time Series,0.24114450200605225
+Test-Time Training for Out-of-Distribution Generalization,0.4155226211918122
+MODELLING   BIOLOGICAL   ASSAYS   WITH ADAPTIVE DEEP KERNEL LEARNING,0.3197196855854426
+Hybrid Weight Representation: A Quantization Method Represented with Ternary and Sparse-Large Weights,0.23750391129353898
+Stiffness: A New Perspective on Generalization in Neural Networks,0.30735879713130987
+POP-Norm: A Theoretically Justified and More Accelerated Normalization Approach,0.21215049018904994
+A Generalized Framework of Sequence Generation with Application to Undirected Sequence Models,0.3590526074367546
+Pushing the bounds of dropout,0.28488317147021225
+CRNet: Image Super-Resolution Using A Convolutional Sparse Coding  Inspired Network,0.13623843402234087
+Hierarchical Graph Matching Networks for Deep Graph Similarity Learning,0.18698102797750718
+RATE-DISTORTION OPTIMIZATION GUIDED AUTOENCODER FOR GENERATIVE APPROACH,0.14927082959647658
+Learning to Recognize the Unseen Visual Predicates,0.3206176109826124
+Self-supervised Training of Proposal-based Segmentation via Background Prediction,0.31344464425396185
+Constrained Markov Decision Processes via Backward Value Functions,0.32133387888751647
+Deep Interaction Processes for Time-Evolving Graphs,0.14024769697797362
+On summarized validation curves and generalization,0.18330640157733627
+The Visual Task Adaptation Benchmark,0.33814962256116077
+SPREAD  DIVERGENCE,0.24872990639046524
+Adversarially learned anomaly detection for time series data,0.19190073563117496
+CEB Improves Model Robustness,0.27235447700216964
+Mildly Overparametrized Neural Nets can Memorize Training Data Efficiently,0.20732306530496478
+Data-Driven Approach to Encoding and Decoding 3-D Crystal Structures,0.3791732164330012
+Mean Field Models for Neural Networks in Teacher-student Setting,0.22552820680411598
+A novel Bayesian estimation-based word embedding model for sentiment analysis,0.19388760854264314
+Improving Gradient Estimation in Evolutionary Strategies With Past Descent Directions,0.25937658642935135
+Few-Shot Few-Shot Learning and the role of Spatial Attention,0.16145726182862785
+Generative Cleaning Networks with Quantized Nonlinear Transform  for  Deep Neural Network Defense,0.2648375633409264
+Clustered Reinforcement Learning,0.2837338061247025
+Auto Completion of User Interface Layout Design Using Transformer-Based Tree Decoders,0.22343558261062776
+Visual Imitation with Reinforcement Learning using Recurrent Siamese Networks,0.23056904021810484
+Deep Graph Translation,0.25043991033684754
+GAN-based Gaussian Mixture Model Responsibility Learning,0.1622543044779845
+CROSS-DOMAIN CASCADED DEEP TRANSLATION,0.3484588894657186
+Mean-field Behaviour of Neural Tangent Kernel for Deep Neural Networks,0.2954317178208296
+NORML: Nodal Optimization for Recurrent Meta-Learning,0.1459723698273776
+Programmable Neural Network Trojan for Pre-trained Feature Extractor,0.20505607423069852
+Contextual Inverse Reinforcement Learning,0.31590634060724077
+Convolutional Bipartite Attractor Networks,0.24408648163422023
+DeepSimplex: Reinforcement Learning of Pivot Rules Improves the Efficiency of Simplex Algorithm in Solving Linear Programming Problems,0.18990647228556296
+Temporal-difference learning for nonlinear value function approximation in the lazy training regime,0.26968102141756445
+Off-policy Multi-step Q-learning,0.21602804153002375
+Towards Interpretable Molecular Graph Representation Learning,0.24148182919601743
+Effective Mechanism to Mitigate Injuries During NFL Plays ,0.11669351768724553
+Ecological Reinforcement Learning,0.2648896661336773
+CP-GAN: Towards a Better Global Landscape of GANs,0.3127228479263674
+Learning Semantically Meaningful Representations Through Embodiment,0.20799926983945097
+Graph Warp Module: an Auxiliary Module for Boosting the Power of Graph Neural Networks in Molecular Graph Analysis,0.3587898945425552
+End-To-End Input Selection for Deep Neural Networks,0.19683196786295687
+Learning Curves for Deep Neural Networks: A field theory perspective,0.2612456912652257
+Regional based query in graph active learning,0.23313825117009715
+Analysis and Interpretation of Deep CNN Representations as Perceptual Quality Features,0.23756773682106175
+Dynamical System Embedding for Efficient Intrinsically Motivated Artificial Agents,0.26725905647424464
+Network Pruning for Low-Rank Binary Index,0.22397626141445093
+Attention Privileged Reinforcement Learning for Domain Transfer,0.216950647825795
+Wildly Unsupervised Domain Adaptation and Its Powerful and Efficient Solution,0.1877762438416483
+"Deep RL for Blood Glucose Control: Lessons, Challenges, and Opportunities",0.20908534395878584
+Learning Likelihoods with Conditional Normalizing Flows ,0.3752445874099897
+Detecting Out-of-Distribution Inputs to Deep Generative Models Using Typicality,0.3577044548805268
+Scaleable input gradient regularization for adversarial robustness,0.2634497803161794
+Weakly-Supervised Trajectory Segmentation for Learning Reusable Skills,0.2750788184794877
+Compositional Visual Generation with Energy Based Models,0.3547410089810953
+Fourier networks for uncertainty estimates and out-of-distribution detection,0.222967570777472
+Finding Winning Tickets with Limited (or No) Supervision,0.31933255483989736
+DASGrad: Double Adaptive Stochastic Gradient,0.215238885372135
+Towards Modular Algorithm Induction,0.12717506081153293
+PROVABLY BENEFITS OF DEEP HIERARCHICAL RL,0.18606538429945155
+Effects of Linguistic Labels on Learned Visual Representations in Convolutional Neural Networks: Labels matter!,0.33815933483807215
+What Can Learned Intrinsic Rewards Capture?,0.27064685029032953
+Neural Clustering Processes,0.3357939508093653
+Pre-training as Batch Meta Reinforcement Learning with tiMe ,0.20698104720803778
+Multi-Task Learning via Scale Aware Feature Pyramid Networks and Effective Joint Head,0.16136393153631937
+BANANAS: Bayesian Optimization with Neural Networks for Neural Architecture Search,0.16458889259230072
+Isolating Latent Structure with Cross-population Variational Autoencoders,0.2654331176431755
+Stabilizing Off-Policy Reinforcement Learning with Conservative Policy Gradients,0.22224422706884908
+When Covariate-shifted Data Augmentation Increases Test Error And How to Fix It,0.3315604010637574
+Learning robust visual representations using data augmentation invariance,0.2611612465298376
+Learning to Generate Grounded Visual Captions without Localization Supervision,0.2936611307602033
+On Empirical Comparisons of Optimizers for Deep Learning,0.41481667357388996
+LEARNING DIFFICULT PERCEPTUAL TASKS WITH HODGKIN-HUXLEY NETWORKS,0.27636955734437385
+Adversarial Robustness Against the Union of Multiple Perturbation Models,0.29705602134290343
+LightPAFF: A Two-Stage Distillation Framework for Pre-training and Fine-tuning,0.32652574290148123
+LocalGAN: Modeling Local Distributions for Adversarial Response Generation,0.2016596644709982
+Partial Simulation for Imitation Learning,0.2549012235803733
+Progressive Upsampling Audio Synthesis via Effective Adversarial Training,0.24136717097633992
+A Quality-Diversity Controllable GAN for Text Generation,0.1289623951047979
+Unsupervised-Learning of time-varying features,0.15259347813091664
+Improving Visual Relation Detection using Depth Maps,0.279756328848594
+DeepAGREL: Biologically plausible deep learning via direct reinforcement,0.2991805651968864
+Learn Interpretable Word Embeddings Efficiently with von Mises-Fisher Distribution,0.194556947982948
+Mirror Descent View For Neural Network Quantization,0.249282683104876
+Topological Autoencoders,0.3923927271741706
+Utilizing Edge Features in Graph Neural Networks via Variational Information Maximization,0.23047230747415337
+Redundancy-Free Computation Graphs for Graph Neural Networks,0.30246065135877337
+Long History Short-Term Memory for Long-Term Video Prediction,0.26356364889937695
+How the Softmax Activation Hinders the Detection of Adversarial and Out-of-Distribution Examples in Neural Networks,0.1499836760546926
+Solving Packing Problems by Conditional Query Learning,0.20259738113521944
+Context Based Machine Translation With Recurrent Neural Network For English-Amharic Translation ,0.16563608082527692
+"Long-term planning, short-term adjustments",0.19465014725243437
+Boosting Network: Learn by Growing Filters and Layers via SplitLBI,0.20019410885254416
+MULTI-STAGE INFLUENCE FUNCTION,0.36402073931540324
+$\ell_1$ Adversarial Robustness Certificates: a Randomized Smoothing Approach,0.2381440382435931
+Scaling Up Neural Architecture Search with Big Single-Stage Models,0.3802523392008377
+CONTRIBUTION OF INTERNAL REFLECTION IN LANGUAGE EMERGENCE WITH AN UNDER-RESTRICTED SITUATION,0.2038143903933461
+MIM: Mutual Information Machine,0.27274707501469236
+Variable Complexity in the Univariate and Multivariate Structural Causal Model,0.2556138121917581
+Copy That! Editing Sequences by Copying Spans,0.33199529103261566
+OmniNet: A unified architecture for multi-modal multi-task learning,0.18571637207760305
+QGAN: Quantize Generative Adversarial Networks to Extreme low-bits,0.20661719919766272
+Imagine That! Leveraging Emergent Affordances for Tool Synthesis in Reaching Tasks,0.2181081392385314
+Enhancing Attention with Explicit Phrasal Alignments,0.24005362768613134
+A GOODNESS OF FIT MEASURE FOR GENERATIVE NETWORKS,0.24006699589131358
+Learning Neural Causal Models from Unknown Interventions,0.45019874419136374
+SLM Lab: A Comprehensive Benchmark and Modular Software Framework for Reproducible Deep Reinforcement Learning,0.23203218725745825
+A⋆MCTS: SEARCH WITH THEORETICAL GUARANTEE USING POLICY AND VALUE FUNCTIONS,0.15653634173963402
+Faster Neural Network Training with Data Echoing,0.40033083238922496
+Sparse Weight Activation Training,0.30089657883479437
+BOOSTING ENCODER-DECODER CNN FOR INVERSE PROBLEMS,0.2409261749209969
+Unsupervised Spatiotemporal Data Inpainting,0.20408459760183606
+Deep geometric matrix completion:  Are we doing it right?,0.20666496024462042
+Predictive Coding for Boosting Deep Reinforcement Learning with Sparse Rewards,0.19343435949838766
+Improved Structural Discovery and Representation Learning of Multi-Agent Data,0.26969226018714093
+Laplacian Denoising Autoencoder,0.32660051577448973
+A Boolean Task Algebra for Reinforcement Learning,0.24313293791605825
+"On Iterative Neural Network Pruning, Reinitialization, and the Similarity of Masks",0.17617706113298667
+Semantics Preserving Adversarial Attacks,0.2644246868562066
+Unified recurrent network for many feature types,0.1672708778058306
+How noise affects the Hessian spectrum in overparameterized neural networks,0.21256303849037
+Symmetric-APL Activations: Training Insights and Robustness to Adversarial Attacks,0.19578855841075302
+Temporal Probabilistic Asymmetric Multi-task Learning,0.2925740491875526
+Learning Deep-Latent Hierarchies by Stacking Wasserstein Autoencoders,0.22311602438945105
+Feature Selection using Stochastic Gates,0.29664884245984136
+Stablizing Adversarial Invariance Induction by Discriminator Matching,0.21107886617085936
+Revisiting Gradient Episodic Memory for Continual Learning,0.11482087704397284
+"Unifying Question Answering, Text Classification, and Regression via Span Extraction",0.34440091572105125
+Reinforcement Learning with Probabilistically Complete Exploration,0.23395073931662086
+Global Momentum Compression for Sparse Communication in Distributed SGD,0.24861542943133685
+Quantifying uncertainty with GAN-based priors,0.21211375055098727
+Analyzing Privacy Loss in Updates of Natural Language Models,0.2996508187315087
+Layer Flexible Adaptive Computation Time for Recurrent Neural Networks,0.21914312934246363
+Gumbel-Matrix Routing for Flexible Multi-task Learning,0.23141975517199204
+"OPTIMAL TRANSPORT, CYCLEGAN, AND PENALIZED LS FOR UNSUPERVISED LEARNING IN INVERSE PROBLEMS",0.2753564367506536
+Stabilizing DARTS with Amended Gradient Estimation on Architectural Parameters,0.29897292202396303
+Why ADAM Beats SGD for Attention Models	,0.27989143273707984
+Multi-Sample Dropout for Accelerated Training and Better Generalization,0.14981832143640703
+Prototype Recalls for Continual Learning,0.22319233036284375
+Learning Surrogate Losses,0.30979312162480516
+Recurrent Independent Mechanisms,0.3749027034066438
+Anomaly Detection Based on Unsupervised Disentangled Representation Learning in Combination with Manifold Learning,0.18133054198908188
+Stochastic Mirror Descent on Overparameterized Nonlinear Models,0.292331083470719
+On the implicit minimization of alternative loss functions when training deep networks,0.20105164412598486
+Minimally distorted Adversarial Examples with a Fast Adaptive Boundary Attack,0.31054100491453535
+Octave Graph Convolutional Network,0.24685707847459412
+"Lift-the-flap: what, where and when for context reasoning",0.246916132514536
+The Dynamics of Signal Propagation in Gated Recurrent Neural Networks,0.3888089645839876
+WaveFlow: A Compact Flow-based Model for Raw Audio,0.288197946623703
+Identifying Weights and Architectures of Unknown ReLU Networks,0.30046550736436994
+On PAC-Bayes Bounds for Deep Neural Networks using the Loss Curvature,0.13614522527711023
+RoBERTa: A Robustly Optimized BERT Pretraining Approach,0.41411041118569947
+A Coordinate-Free Construction of Scalable Natural Gradient,0.3006129147495496
+Evaluating and Calibrating Uncertainty Prediction in Regression Tasks,0.2013488331008219
+Why Does the VQA Model Answer No?: Improving Reasoning through Visual and Linguistic Inference,0.28759853237480776
+Modeling Winner-Take-All Competition in Sparse Binary Projections,0.2778716636851291
+When Robustness Doesn’t Promote Robustness: Synthetic vs. Natural Distribution Shifts on ImageNet,0.20875554411794794
+Perturbations are not Enough: Generating Adversarial Examples with Spatial Distortions,0.20308097867126276
+Visual Explanation for Deep Metric Learning,0.2625717939565711
+Continual Learning via Neural Pruning,0.3221402999280144
+Continual Learning using the SHDL Framework with Skewed Replay Distributions,0.1608172910664656
+Goten: GPU-Outsourcing Trusted Execution of Neural Network Training and Prediction,0.1477122842323736
+One-way prototypical networks,0.2310482972316736
+FLUID FLOW MASS TRANSPORT FOR GENERATIVE NETWORKS,0.19643979655870553
+Improving Model Compatibility of Generative Adversarial Networks by Boundary Calibration,0.2489543347871629
+Generative Imputation and Stochastic Prediction,0.3264820854403038
+Denoising Improves Latent Space Geometry in Text Autoencoders,0.3654421163586098
+Information-Theoretic Local Minima Characterization and Regularization,0.3956660378143047
+Wider Networks Learn Better Features,0.24589673640123855
+GENERALIZATION GUARANTEES FOR NEURAL NETS VIA HARNESSING THE LOW-RANKNESS OF JACOBIAN,0.26714302677840135
+Implicit competitive regularization in GANs,0.32758639738496864
+Efficient Content-Based Sparse Attention with Routing Transformers,0.37095059371766376
+Implicit Rugosity Regularization via Data Augmentation,0.2626354245755526
+Balancing Cost and Benefit with Tied-Multi Transformers,0.17562191157735813
+Learning to Learn Kernels with Variational Random Features,0.30980851611545807
+Learning Numeral Embedding,0.2659875752675222
+Label Cleaning with Likelihood Ratio Test,0.2015126022146799
+Fast Task Adaptation for Few-Shot Learning,0.24154326056118477
+Using Objective Bayesian Methods to Determine the Optimal Degree of Curvature within the Loss Landscape,0.18308728990108356
+VIDEO AFFECTIVE IMPACT PREDICTION WITH MULTIMODAL FUSION AND LONG-SHORT TEMPORAL CONTEXT,0.11854382228500242
+UNITER: Learning UNiversal Image-TExt Representations,0.2943947637189246
+Knowledge Graph Embedding: A Probabilistic Perspective and Generalization Bounds,0.20035621479228297
+BUZz: BUffer Zones for defending  adversarial examples in image classification,0.23996291572581838
+Domain Aggregation Networks for Multi-Source Domain Adaptation,0.250673645813421
+Privacy-preserving Representation Learning by Disentanglement,0.12339823968920777
+Angular Visual Hardness,0.3478272292187062
+Autoencoders and Generative Adversarial Networks for Imbalanced Sequence Classification,0.21593744690783073
+Multiagent Reinforcement Learning in Games with an Iterated Dominance Solution,0.3406946204035604
+Blockwise Adaptivity:  Faster Training and Better Generalization in Deep Learning,0.277677790945506
+Self-Educated Language Agent with Hindsight Experience Replay for Instruction Following,0.2956650410571743
+Policy path programming,0.20379364484083787
+Extreme Triplet Learning: Effectively Optimizing Easy Positives and Hard Negatives,0.30217274403850175
+MONET: Debiasing Graph Embeddings via the Metadata-Orthogonal Training Unit,0.36980058383302516
+DYNAMIC SELF-TRAINING FRAMEWORK  FOR GRAPH CONVOLUTIONAL NETWORKS,0.2743109006676439
+TOWARDS FEATURE SPACE ADVERSARIAL ATTACK,0.4089048078815687
+DIVA: Domain Invariant Variational Autoencoder,0.3267042801082685
+Optimal Attacks on Reinforcement Learning Policies,0.31198474197298165
+Recurrent Event Network : Global Structure Inference Over Temporal Knowledge Graph,0.24699506506314217
+Continual Learning with Gated Incremental Memories for Sequential Data Processing,0.17401973136024665
+Context-Aware Object Detection With Convolutional Neural Networks,0.22002563304246736
+Resizable Neural Networks,0.25850981555452107
+SPROUT: Self-Progressing Robust Training,0.2324797617793166
+FALCON: Fast and Lightweight Convolution for Compressing and Accelerating CNN,0.20343313041798888
+Conditional Invertible Neural Networks for Guided Image Generation,0.34232253071444196
+Domain-Independent Dominance of Adaptive Methods,0.37954097463508235
+Potential Flow Generator with $L_2$ Optimal Transport Regularity for Generative Models,0.30594500929801227
+Power up! Robust Graph Convolutional Network based on Graph Powering,0.18005752610897596
+DIME: AN INFORMATION-THEORETIC DIFFICULTY MEASURE FOR AI DATASETS,0.3178348948223849
+Improved Detection of Adversarial Attacks via Penetration Distortion Maximization,0.3170187279531682
+X-Forest: Approximate Random Projection Trees for Similarity Measurement,0.1272373320373387
+Out-of-Distribution Image Detection Using the Normalized Compression Distance,0.26953731324384445
+A Deep Recurrent Neural Network via Unfolding Reweighted l1-l1 Minimization,0.2871818198021794
+Meta-Learning for Variational Inference,0.2069744399739754
+All Simulations Are Not Equal: Simulation Reweighing for Imperfect Information Games,0.22282890775425904
+GRASPEL: GRAPH SPECTRAL LEARNING AT SCALE,0.18158616323288143
+Latent Variables on Spheres for Sampling and Inference,0.1976251548184859
+Ladder Polynomial Neural Networks,0.2588983082241577
+Universal Safeguarded Learned Convex Optimization with Guaranteed Convergence,0.2850424302140813
+Knockoff-Inspired Feature Selection via Generative Models,0.1866114232067113
+Diagnosing the Environment Bias in Vision-and-Language Navigation,0.2329328891548851
+Entropy Minimization In Emergent Languages,0.33053997167174687
+Improving SAT Solver Heuristics with Graph Networks and Reinforcement Learning,0.37318932012266337
+Toward Understanding The Effect of Loss Function on The Performance of Knowledge Graph Embedding,0.254322802007185
+Multi-Precision Policy Enforced Training (MuPPET) : A precision-switching strategy for quantised fixed-point training of CNNs,0.20389195136675542
+R2D2: Reuse & Reduce via Dynamic Weight Diffusion for Training Efficient NLP Models,0.28766021352516413
+Variational Autoencoders for Opponent Modeling in Multi-Agent Systems,0.21177838596746942
+SELF-KNOWLEDGE DISTILLATION ADVERSARIAL ATTACK,0.1443530653882144
+Continual Deep Learning by Functional Regularisation of Memorable Past,0.19850075053545768
+Deep Multi-View Learning via Task-Optimal CCA,0.26336219890125945
+Unsupervised Representation Learning by Predicting Random Distances,0.21203603925671374
+Qgraph-bounded Q-learning: Stabilizing Model-Free Off-Policy Deep Reinforcement Learning,0.16261245075566416
+Neural Maximum Common Subgraph Detection with Guided Subgraph Extraction,0.17685153675392096
+Blockwise Self-Attention for Long Document Understanding,0.30900970561845553
+GroSS Decomposition: Group-Size Series Decomposition for Whole Search-Space Training,0.2797569545435754
+On unsupervised-supervised risk and one-class neural networks,0.21707384920205852
+Shifted Randomized Singular Value Decomposition,0.13856964454335036
+Encoding Musical Style with Transformer Autoencoders,0.3337786003999009
+Adaptive Adversarial Imitation Learning,0.253964656144906
+Adversarial Interpolation Training: A Simple Approach for Improving Model Robustness,0.1831895780897094
+Do Image Classifiers Generalize Across Time?,0.20875554411794794
+Manifold Learning and Alignment with Generative Adversarial Networks,0.24253115286627927
+Count-guided Weakly Supervised Localization Based on Density Map,0.1856701616810178
+Walking the Tightrope: An Investigation of the Convolutional Autoencoder Bottleneck,0.279756328848594
+LEX-GAN: Layered Explainable Rumor Detector Based on Generative Adversarial Networks,0.22781358172718216
+A New Multi-input Model with the Attention Mechanism for Text Classification,0.12410107792162228
+Stochastic Prototype Embeddings,0.24408648163422023
+GraphNVP: an Invertible Flow-based Model for Generating Molecular Graphs,0.23464270003724028
+Contrastive Multiview Coding,0.4039846551777102
+RGTI:Response generation via templates integration for End to End dialog,0.1447065804056315
+Improving the Gating Mechanism of Recurrent Neural Networks,0.2811364022777923
+Analyzing the Role of Model Uncertainty for Electronic Health Records,0.28209514852061496
+Leveraging Entanglement Entropy for Deep Understanding of  Attention Matrix in Text Matching,0.11625605928341406
+Superbloom: Bloom filter meets Transformer,0.22361657494403903
+LEARNING TO IMPUTE: A GENERAL FRAMEWORK FOR SEMI-SUPERVISED LEARNING,0.25425115444682056
+Reflection-based Word Attribute Transfer,0.237048835015665
+ExpandNets: Linear Over-parameterization to Train Compact Convolutional Networks,0.2977492782310913
+PopSGD: Decentralized Stochastic Gradient Descent in the Population Model,0.19005731452513766
+Improved Mutual Information Estimation,0.2565406514275796
+Confidence Scores Make Instance-dependent Label-noise Learning Possible,0.31970330027312427
+Is Deep Reinforcement Learning Really Superhuman on Atari? Leveling the playing field,0.24257342954023953
+A Bilingual Generative Transformer for Semantic Sentence Embedding,0.2978682025747442
+TechKG: A Large-Scale Chinese Technology-Oriented Knowledge Graph,0.13701242269497257
+Wasserstein Adversarial Regularization (WAR) on label noise,0.31454988247387616
+Enhancing the Transformer with explicit relational encoding for math problem solving,0.34373427053545264
+Constant Curvature Graph Convolutional Networks,0.324021865817874
+Plan2Vec: Unsupervised Representation Learning by Latent Plans,0.1890524837554325
+Generating Dialogue Responses From A Semantic Latent Space,0.20385606442670703
+Learning Key Steps to Attack Deep Reinforcement Learning Agents,0.22448579077954298
+"If MaxEnt RL is the Answer, What is the Question?",0.3541792286555455
+Learning to Control Latent Representations for Few-Shot Learning of Named Entities,0.12654895740837868
+Variational Hyper RNN for Sequence Modeling,0.4018228646316165
+Weighted Empirical Risk Minimization: Transfer Learning based on Importance Sampling,0.20192943011386025
+Provenance detection through learning transformation-resilient watermarking,0.346523982758249
+Underwhelming Generalization Improvements From Controlling Feature Attribution,0.20195690553095885
+Combining graph and sequence information to learn protein representations,0.16917156710125328
+Sensible adversarial learning,0.21817843265402329
+YaoGAN: Learning Worst-case Competitive Algorithms from Self-generated Inputs,0.31252457458100136
+Learning to Remember from a Multi-Task Teacher,0.33450269988055226
+Pretraining boosts out-of-domain robustness for pose estimation,0.16589368015621428
+Self-Induced Curriculum Learning in Neural Machine Translation,0.21246319959647633
+Adapt-to-Learn: Policy Transfer in Reinforcement Learning,0.261661446599061
+The Surprising Behavior Of Graph Neural Networks,0.2863321612137823
+On the Reflection of Sensitivity in the Generalization Error,0.2546770268863112
+Bio-Inspired Hashing for Unsupervised Similarity Search,0.2952754996767412
+Neural Program Synthesis By Self-Learning,0.22051062435594787
+The Variational InfoMax AutoEncoder,0.1901581449907235
+Neural Network Out-of-Distribution Detection for Regression Tasks,0.27776136314125244
+Stein Self-Repulsive Dynamics: Benefits from Past Samples,0.24435607168237186
+Mesh-Free Unsupervised Learning-Based PDE Solver of Forward and Inverse problems,0.2714315962659403
+Gaussian Conditional Random Fields for Classification,0.23559389470821726
+Visual Hide and Seek,0.3475410060464773
+Supervised learning with incomplete data via sparse representations,0.32649112217786325
+Transfer Active Learning For Graph Neural Networks,0.18290859323187122
+Equivariant Entity-Relationship Networks,0.2772230767347303
+Assessing Generalization in TD methods for Deep Reinforcement Learning,0.3345559891283755
+Chordal-GCN: Exploiting sparsity in training large-scale graph convolutional networks,0.266065803992805
+Certifying Distributional Robustness using Lipschitz Regularisation,0.28708545346035075
+"Continuous Control with Contexts, Provably",0.21487492490677262
+Using Hindsight to Anchor Past Knowledge in Continual Learning,0.4057423758220695
+Solving single-objective tasks by preference multi-objective reinforcement learning,0.18701377846490258
+Transfer Alignment Network for Double Blind Unsupervised Domain Adaptation,0.12425880768455719
+Policy Optimization by Local Improvement through Search,0.20859820415808025
+Statistical Verification of General Perturbations by Gaussian Smoothing,0.24628209588784228
+Learning to Anneal and Prune Proximity Graphs for Similarity Search,0.35709365766311496
+Unsupervised Learning of Graph Hierarchical Abstractions with Differentiable Coarsening and Optimal Transport,0.21492644680256617
+Bayesian Variational Autoencoders for Unsupervised Out-of-Distribution Detection,0.2505654663152025
+Robust Instruction-Following in a Situated Agent via Transfer-Learning from Text,0.3845988456754045
+Fully Polynomial-Time Randomized Approximation Schemes for Global Optimization of High-Dimensional Folded Concave Penalized Generalized Linear Models,0.2443294535511198
+MANIFOLD FORESTS: CLOSING THE GAP ON NEURAL NETWORKS,0.21654499415236877
+Granger Causal Structure Reconstruction from Heterogeneous Multivariate Time Series,0.28397609668507257
+Towards Disentangling Non-Robust and Robust Components in Performance Metric,0.20307979517643637
+Risk Averse Value Expansion for Sample Efficient and Robust Policy Learning,0.18253660644308703
+MANAS: Multi-Agent Neural Architecture Search,0.27707085695121925
+Neural Architecture Search by Learning Action Space for Monte Carlo Tree Search,0.27903273102344206
+A multi-task U-net for segmentation with lazy labels,0.25755945896576377
+Deep automodulators,0.3802718694793175
+Towards Certified Defense for Unrestricted Adversarial Attacks,0.22035009313187207
+Best feature performance in codeswitched hate speech texts,0.1529349604625032
+Evolutionary Reinforcement Learning for Sample-Efficient Multiagent Coordination,0.2953394797260317
+Gaussian Process Meta-Representations Of Neural Networks,0.3475323395843382
+Training Deep Neural Networks with Partially Adaptive Momentum,0.246501759853564
+Scalable Deep Neural Networks via Low-Rank Matrix Factorization,0.1512364485884881
+Antifragile and Robust Heteroscedastic Bayesian Optimisation,0.18166624200900647
+Compressed Sensing with Deep Image Prior and Learned Regularization,0.3608221534332138
+Unsupervised Hierarchical Graph Representation Learning with Variational Bayes,0.18611163583685955
+Learning Algorithmic Solutions to Symbolic Planning Tasks with a Neural Computer,0.32476357591184385
+Multi-Step Decentralized Domain Adaptation,0.3345336295023706
+Robust saliency maps with distribution-preserving decoys,0.33100418191631975
+Towards Interpreting Deep Neural Networks via Understanding Layer Behaviors,0.26114775096126835
+Robust Graph Representation Learning via Neural Sparsification,0.20459304833135145
+Good Semi-supervised VAE Requires Tighter Evidence Lower Bound,0.15934489604400992
+EDUCE: Explaining model Decision through Unsupervised Concepts Extraction,0.3336895979986389
+Projected Canonical Decomposition for Knowledge Base Completion,0.3334139620098101
+Lossless Data Compression with Transformer,0.2819571715435343
+Stochastically Controlled Compositional Gradient for the Composition problem,0.20093665160271967
+Domain Adaptation via Low-Rank Basis Approximation,0.15977489675266338
+SGD with Hardness Weighted Sampling for Distributionally Robust Deep Learning,0.2284915123772041
+Fast Training of Sparse Graph Neural Networks on Dense Hardware,0.32706955034060137
+CGT: Clustered Graph Transformer for Urban Spatio-temporal Prediction,0.19419529643167233
+Regularizing Black-box Models for Improved Interpretability,0.30254747660223497
+AlgoNet: $C^\infty$ Smooth Algorithmic Neural Networks,0.1963274167636175
+AdvCodec: Towards A Unified Framework for Adversarial Text Generation,0.19211540555807413
+Function Feature Learning of Neural Networks,0.17469556189623206
+Unsupervised domain adaptation with imputation,0.2813847682236209
+Path Space for Recurrent Neural Networks with ReLU Activations,0.23077725829626225
+Fast Machine Learning with Byzantine Workers and Servers,0.2179751396754529
+Topology-Aware Pooling via Graph Attention,0.2886515841151572
+Stochastic Latent Actor-Critic: Deep Reinforcement Learning with a Latent Variable Model,0.3541792286555455
+Localised Generative Flows,0.26453354063053697
+Guided Adaptive Credit Assignment for Sample Efficient Policy Optimization,0.29775524632323214
+Proactive Sequence Generator via Knowledge Acquisition,0.23772517564708526
+Reinforcement Learning without Ground-Truth State,0.21240345918621872
+Generalized Inner Loop Meta-Learning,0.3789590631786272
+Channel Equilibrium Networks,0.1978199445173395
+Limitations for Learning from Point Clouds,0.2729022913614973
+Learning Underlying Physical Properties From Observations For Trajectory Prediction,0.2166570767680812
+Provable Representation Learning for Imitation Learning via Bi-level Optimization,0.2642521276343294
+Anchor & Transform: Learning Sparse Representations of Discrete Objects,0.2897446037323346
+EgoMap: Projective mapping and structured egocentric memory for Deep RL,0.2525947752776237
+On the Parameterization of Gaussian Mean Field Posteriors in Bayesian Neural Networks,0.15200440120154618
+Deep unsupervised feature selection,0.2431188270254656
+Efficient Bi-Directional Verification of ReLU Networks via Quadratic Programming,0.32325924547557044
+AdaScale SGD: A Scale-Invariant Algorithm for Distributed Training,0.30746814326156297
+Small-GAN: Speeding up GAN Training using Core-Sets,0.3869062093487741
+AUGMENTED POLICY GRADIENT METHODS FOR EFFICIENT REINFORCEMENT LEARNING,0.10124667506147625
+Neural Approximation of an Auto-Regressive Process through Confidence Guided Sampling,0.31757134764833755
+Certifiably Robust Interpretation in Deep Learning,0.3151390052239492
+Adversarial Training: embedding adversarial perturbations into the parameter space of a neural network to build a robust system,0.2711153030253164
+Neural Linear Bandits: Overcoming Catastrophic Forgetting through Likelihood Matching,0.2436744100315954
+Understanding the functional and structural differences across excitatory and inhibitory neurons,0.3690593879532224
+Skew-Explore: Learn faster in continuous spaces with sparse rewards,0.24345173317436317
+Self-Supervised Speech Recognition via Local Prior Matching,0.22778951057042693
+Learning Reusable Options for Multi-Task Reinforcement Learning,0.23424016626701494
+A Unified framework for randomized smoothing based certified defenses,0.18395618128985983
+Closed loop deep Bayesian inversion:  Uncertainty driven acquisition for fast MRI,0.2351627961031547
+Scalable Differentially Private Data Generation via Private  Aggregation  of  Teacher Ensembles,0.17748866985820105
+Adaptive Generation of Unrestricted Adversarial Inputs,0.3030854767300154
+Training Neural Networks for and by Interpolation,0.312242901224357
+On the expected running time of nonconvex optimization with early stopping,0.1862661541185373
+Interpreting video features: a comparison of 3D convolutional networks and convolutional LSTM networks,0.25923102096411865
+Deep Multiple Instance Learning for Taxonomic Classification of Metagenomic read sets,0.23729096174955733
+Learning with Long-term Remembering: Following the Lead of Mixed Stochastic Gradient,0.24011435690716984
+Skew-Fit: State-Covering Self-Supervised Reinforcement Learning,0.3680199646033459
+Gradient-based training of Gaussian Mixture Models in High-Dimensional Spaces,0.17419277821755605
+Counterfactual Regularization for Model-Based Reinforcement Learning,0.23553915054752808
+Three-Head Neural Network Architecture for AlphaZero Learning,0.206948419920216
+GATO: Gates Are Not the Only Option,0.34081987844410705
+Collaborative Inter-agent Knowledge Distillation for Reinforcement Learning,0.30425563687254314
+THE EFFECT OF ADVERSARIAL TRAINING: A THEORETICAL CHARACTERIZATION,0.19093891146413144
+Flexible and Efficient Long-Range Planning Through Curious Exploration,0.23320762556380634
+Learning Latent Dynamics for Partially-Observed Chaotic Systems,0.2304854731133667
+Make Lead Bias in Your Favor: A Simple and Effective Method for News Summarization,0.3076603579970725
+High performance RNNs with spiking neurons,0.28569660391783985
+Re-Examining Linear Embeddings for High-dimensional Bayesian Optimization,0.282572501214412
+Salient Explanation for Fine-grained Classification,0.11597118562510046
+Deep Coordination Graphs,0.27668829376154747
+Adversarial Training Generalizes Data-dependent Spectral Norm Regularization,0.3507044172178493
+TriMap: Large-scale Dimensionality Reduction Using Triplets,0.23964723296244764
+Unsupervised Temperature Scaling: Robust Post-processing Calibration for Domain Shift,0.20917012783400138
+Uncertainty-Aware Prediction for Graph Neural Networks,0.22489582149683318
+Hydra: Preserving Ensemble Diversity for Model Distillation,0.30558456070803813
+Finding Deep Local Optima Using Network Pruning,0.1805442489301792
+Advantage Weighted Regression: Simple and Scalable Off-Policy Reinforcement Learning,0.3680199646033459
+Generative Teaching Networks: Accelerating Neural Architecture Search by Learning  to Generate Synthetic Training Data,0.3740089720443782
+Compression without Quantization,0.2591099020978226
+CLAREL: classification via retrieval loss for zero-shot learning,0.29267170382507324
+Generating Semantic Adversarial Examples with Differentiable Rendering,0.27481758414136276
+Constant Time Graph Neural Networks,0.3052812060087139
+SSE-PT: Sequential Recommendation Via Personalized Transformer,0.25810316233781905
+Adaptive Learned Bloom Filter (Ada-BF): Efficient Utilization of the Classifier,0.2782668708385576
+Global-Local Network for Learning Depth with Very Sparse Supervision,0.28456323977577497
+Localized Generations with Deep Neural Networks for Multi-Scale Structured Datasets,0.2103560564388846
+CrossNorm: On Normalization for Off-Policy Reinforcement Learning,0.35309067055220905
+Diagonal Graph Convolutional Networks with Adaptive Neighborhood Aggregation,0.23780651812934922
+Variance Reduced Local SGD with Lower Communication Complexity,0.2390142397333009
+White Box Network: Obtaining a right composition ordering of functions,0.14481690171501055
+Neural Embeddings for Nearest Neighbor Search Under Edit Distance,0.37078333834725735
+Accelerating First-Order Optimization Algorithms,0.18250413362045795
+A SIMPLE AND EFFECTIVE FRAMEWORK FOR PAIRWISE DEEP METRIC LEARNING,0.2955259737280724
+Local Label Propagation for Large-Scale Semi-Supervised Learning,0.38562225968766617
+Sparse Skill Coding: Learning Behavioral Hierarchies with Sparse Codes,0.2806899269394452
+"JAX MD: End-to-End Differentiable, Hardware Accelerated, Molecular Dynamics in Pure Python",0.2869248351030394
+ROS-HPL: Robotic Object Search with Hierarchical Policy Learning and Intrinsic-Extrinsic Modeling,0.15721009185269294
+Fractional Graph Convolutional Networks (FGCN) for Semi-Supervised Learning,0.304221307212459
+Graph Neural Networks For Multi-Image Matching,0.2809025267059238
+Cost-Effective Testing of a Deep Learning Model through Input Reduction,0.21982196371893045
+Decoupling Weight Regularization from Batch Size for Model Compression,0.30520041790685815
+Star-Convexity in Non-Negative Matrix Factorization,0.3554310363967747
+Learning Compact Reward for Image Captioning,0.25899428646809886
+Learning Entailment-Based Sentence Embeddings from Natural Language Inference,0.26966431073142
+Word embedding re-examined: is the symmetrical factorization optimal?,0.23580707316728158
+Structured consistency loss for semi-supervised semantic segmentation,0.13637005397617055
+Attention on Abstract Visual Reasoning,0.16640534920682973
+Exploiting Excessive Invariance caused by Norm-Bounded Adversarial Robustness,0.39642293107654386
+WikiMatrix: Mining 135M Parallel Sentences in 1620 Language Pairs from Wikipedia,0.2819237187960124
+ProtoAttend: Attention-Based Prototypical Learning,0.3010979444956176
+Discourse-Based Evaluation of Language Understanding,0.277539336485664
+Automatically Learning Feature Crossing from Model Interpretation for Tabular Data,0.20493195542393877
+Semi-Supervised Boosting via Self Labelling,0.11545825832503451
+Depth creates no more spurious local minima in linear networks,0.22768671825231884
+Consistent Meta-Reinforcement Learning via Model Identification and Experience Relabeling,0.19796340379618466
+Accelerating Monte Carlo Bayesian Inference via Approximating Predictive Uncertainty over the Simplex,0.23728446176253565
+Trajectory growth through random deep ReLU networks,0.293255110022139
+Ellipsoidal Trust Region Methods for Neural Network Training,0.33917792388913887
+Defensive Tensorization: Randomized Tensor Parametrization for Robust Neural Networks,0.36568648227167183
+The Dual Information Bottleneck,0.2998734597529209
+ADAPTIVE GENERATION OF PROGRAMMING PUZZLES,0.3181678608937331
+Feature-map-level Online Adversarial Knowledge Distillation,0.22226055197745856
+Graph convolutional networks for learning with few clean and many noisy labels,0.4440183547790103
+Visual Interpretability Alone Helps Adversarial Robustness,0.20775121713108724
+Linguistic Embeddings as a Common-Sense Knowledge Repository: Challenges and Opportunities,0.1524482355675614
+Starfire: Regularization-Free Adversarially-Robust Structured Sparse Training,0.2087880820537159
+Pixel Co-Occurence Based Loss Metrics for Super Resolution Texture Recovery,0.19276640786673227
+Cross-Iteration Batch Normalization,0.4007511669545029
+Exploration via Flow-Based Intrinsic Rewards,0.2555512355608203
+Embodied Multimodal Multitask Learning,0.312945112697807
+Towards Principled Objectives for Contrastive Disentanglement,0.25210594169789924
+Hebbian Graph Embeddings,0.12867810834509408
+Probabilistic modeling the hidden layers of deep neural networks,0.35069512863877006
+Empirical confidence estimates for classification by deep neural networks,0.27525611624977714
+TED: A Pretrained Unsupervised Summarization Model with Theme Modeling and Denoising,0.40517780010758764
+Biologically Plausible Neural Networks via Evolutionary Dynamics and Dopaminergic Plasticity,0.16999993335388053
+Meta-Learning Initializations for Image Segmentation,0.20000170767873615
+Sequence-level Intrinsic Exploration Model for Partially Observable Domains,0.38305281610977115
+EINS: Long Short-Term Memory with Extrapolated Input Network Simplification,0.10878735562487252
+Connectivity-constrained interactive annotations for panoptic segmentation,0.16727070118977008
+Towards Effective 2-bit Quantization: Pareto-optimal Bit Allocation for Deep CNNs Compression,0.3281681522981844
+Representing Unordered Data Using Multiset Automata and Complex Numbers,0.34812429229457104
+Domain-invariant Learning using Adaptive Filter Decomposition,0.2022794931095779
+Gradient-free Neural Network Training by Multi-convex Alternating Optimization,0.19207557095559355
+GDP: Generalized Device Placement for Dataflow Graphs,0.3764543559500924
+Learning relevant features for statistical inference,0.19526232696692475
+Accelerating Reinforcement Learning Through GPU Atari Emulation,0.2812043554980143
+Discrete InfoMax Codes for Meta-Learning,0.23221686926904297
+Efficient Saliency Maps for Explainable AI,0.3071732733546476
+Monte Carlo Deep Neural Network Arithmetic,0.25851137017961984
+Language-independent Cross-lingual Contextual Representations,0.15513281835385978
+Deep Nonlinear Stochastic Optimal Control for Systems with Multiplicative Uncertainties,0.21004799129773424
+Causal Induction from Visual Observations for Goal Directed Tasks,0.40753915823041587
+Towards Understanding the Spectral Bias of Deep Learning,0.3063230870347806
+Reweighted Proximal Pruning for Large-Scale Language Representation,0.3277550033131514
+Distilled embedding: non-linear embedding factorization using knowledge distillation,0.18310292144478024
+Switched linear projections and inactive state sensitivity for deep neural network interpretability,0.1772005887228672
+SpectroBank: A filter-bank convolutional layer for CNN-based audio applications,0.18868364120436068
+Stochastic Latent Residual Video Prediction,0.23487903216770206
+Large-scale Pretraining for Neural Machine Translation with Tens of Billions of Sentence Pairs,0.31302952376772447
+Random Matrix Theory Proves that Deep Learning Representations of GAN-data Behave as Gaussian Mixtures,0.22695165985679133
+The advantage of using Student's t-priors in variational autoencoders,0.11980884727036803
+Neural Communication Systems with Bandwidth-limited Channel,0.3898851853717055
+Unified Probabilistic Deep Continual Learning through Generative Replay and Open Set Recognition,0.33041638309058236
+Optimizing Loss Landscape Connectivity via Neuron Alignment,0.233384570353591
+Adaptive Online Planning for Continual Lifelong Learning,0.30250887396051257
+Adversarially Robust Generalization Just Requires More Unlabeled Data,0.2033426547982574
+Filling the Soap Bubbles: Efficient Black-Box Adversarial Certification with Non-Gaussian Smoothing,0.12475161523620791
+Zeno++: Robust Fully Asynchronous SGD,0.26981831013255386
+LARGE SCALE REPRESENTATION LEARNING FROM TRIPLET COMPARISONS,0.301953879051621
+A Mean-Field Theory for Kernel Alignment with Random Features in Generative Adverserial Networks,0.2470371867684207
+Homogeneous Linear Inequality Constraints for Neural Network Activations,0.24474543063615767
+Distributed Online Optimization with Long-Term Constraints,0.28781873222945514
+Semi-supervised Pose Estimation with Geometric Latent Representations,0.17560467334810867
+Parallel Scheduled Sampling,0.36308652613779613
+ADAPTING PRETRAINED LANGUAGE MODELS FOR LONG DOCUMENT CLASSIFICATION,0.26497421706908325
+Composable Semi-parametric Modelling for Long-range Motion Generation,0.36031965265787
+Finding Mixed Strategy Nash Equilibrium for Continuous Games through Deep Learning,0.22464835094821517
+Online Learned Continual Compression with Stacked Quantization Modules,0.3032970946576646
+Yet another but more efficient black-box adversarial attack: tiling and evolution strategies,0.20676702477817543
+AlignNet: Self-supervised Alignment Module,0.25575294966413115
+A Simple Recurrent Unit with Reduced Tensor Product Representations,0.24814002469991364
+A Hierarchy of Graph Neural Networks Based on Learnable Local Features,0.35515166495093464
+Discriminability Distillation in Group Representation Learning,0.21953696670775633
+Blurring Structure and Learning to Optimize and Adapt Receptive Fields,0.36031965265787
+Conditional Flow Variational Autoencoders for Structured Sequence Prediction,0.26300304262106733
+LAVAE: Disentangling Location and Appearance,0.20522749191236242
+BETANAS: Balanced Training and selective drop for Neural Architecture Search,0.20098280638285004
+Unifying Graph Convolutional Neural Networks and Label Propagation,0.3325345233311281
+Defective Convolutional Layers Learn Robust CNNs,0.21220067632041076
+Unsupervised Progressive Learning and the STAM Architecture,0.4070705300134309
+Asymptotic learning curves of kernel methods: empirical data v.s. Teacher-Student paradigm,0.26877624601417566
+Sticking to the Facts: Confident Decoding for Faithful Data-to-Text Generation,0.3247845558991202
+Evidence-Aware Entropy Decomposition For  Active Deep Learning,0.1831825194542389
+Meta-Learning by Hallucinating Useful Examples,0.33436001389260844
+PDP: A General Neural Framework for Learning SAT Solvers,0.2564677051648626
+Consistency-Based Semi-Supervised Active Learning: Towards Minimizing Labeling Budget,0.38542963571214484
+TabNet: Attentive Interpretable Tabular Learning,0.3010979444956176
+Adapting Behaviour for Learning Progress,0.38723910481035667
+Improving Differentially Private Models with Active Learning,0.2808352607250431
+Style-based Encoder Pre-training for Multi-modal Image Synthesis,0.18987893476227238
+GRAPH ANALYSIS AND GRAPH POOLING IN THE SPATIAL DOMAIN,0.2322952181520025
+Cover Filtration and Stable Paths in the Mapper,0.2841523973422666
+Rigging the Lottery: Making All Tickets Winners,0.2791154631783264
+Disentangled GANs for Controllable Generation of High-Resolution Images,0.24399304259794852
+UNIVERSAL MODAL EMBEDDING OF DYNAMICS IN VIDEOS AND ITS APPLICATIONS,0.19345820183926793
+First-Order Preconditioning via Hypergradient Descent,0.2216980956364822
+Zero-shot task adaptation by homoiconic meta-mapping,0.299111937023655
+MLModelScope: A Distributed Platform for ML Model Evaluation and Benchmarking at Scale,0.29006405980471905
+Efficient Multivariate Bandit Algorithm with Path Planning,0.162538345739362
+Statistical Adaptive Stochastic Optimization,0.25875696393014574
+The Benefits of Over-parameterization at Initialization in Deep ReLU Networks,0.3179841327864429
+Multichannel Generative Language Models,0.16703238781623686
+Set Functions for Time Series,0.36418117075545814
+HIPPOCAMPAL NEURONAL REPRESENTATIONS IN CONTINUAL LEARNING,0.2675053343628025
+Augmenting Transformers with KNN-Based Composite Memory,0.4111271909993456
+Winning Privately: The Differentially Private Lottery Ticket Mechanism,0.1594037835640965
+BAIL: Best-Action Imitation Learning for Batch Deep Reinforcement Learning,0.23620320060592054
+Entropy Penalty: Towards Generalization Beyond the IID Assumption,0.3178348948223849
+A Causal View on Robustness  of Neural Networks,0.36133035067358826
+Improved Image Augmentation for Convolutional Neural Networks by Copyout and CopyPairing,0.18068607363967176
+Model-free Learning Control of Nonlinear Stochastic Systems with Stability Guarantee,0.23392194957497994
+A Theoretical Analysis of  Deep Q-Learning,0.2782682380392088
+On the Pareto Efficiency of Quantized CNN,0.26204284253383703
+Robust Reinforcement Learning via Adversarial Training with  Langevin Dynamics,0.179541713983086
+Robust Reinforcement Learning with Wasserstein Constraint,0.2249590481711032
+Representation Learning for Remote Sensing: An Unsupervised Sensor Fusion Approach,0.2536135693841274
+Learning to Combat Compounding-Error in Model-Based Reinforcement Learning,0.2880542953796757
+Recurrent Neural Networks are Universal Filters,0.22741477022205647
+Soft Token Matching for Interpretable Low-Resource Classification,0.21359540442735947
+A Mention-Pair Model of Annotation with Nonparametric User Communities,0.2123819885221182
+Towards Finding Longer Proofs,0.26074814664452317
+iWGAN: an Autoencoder WGAN for Inference,0.18903261230327392
+Teacher-Student Compression with Generative Adversarial Networks,0.20451397076285607
+Benchmarking Model-Based Reinforcement Learning,0.4634615131942453
+Gradient Perturbation is Underrated for Differentially Private Convex Optimization,0.2858382068825839
+BasisVAE: Orthogonal Latent Space for Deep Disentangled Representation,0.14705195939933974
+How many weights are enough : can tensor factorization learn efficient policies ?,0.20330767212819226
+AHash: A Load-Balanced One Permutation Hash,0.18085295800677129
+Representation Quality Explain Adversarial Attacks,0.12097905482578933
+Explaining A Black-box By Using A Deep Variational Information Bottleneck Approach,0.33693158371926923
+Neural networks are a priori biased towards Boolean functions with low entropy,0.29560346055139364
+Learning Structured Communication for Multi-agent Reinforcement Learning,0.29139953023066556
+Lipschitz Lifelong Reinforcement Learning,0.36097055295219976
+Graph Neural Networks for Reasoning 2-Quantified Boolean Formulas,0.33288173258011966
+Semi-Supervised Few-Shot Learning with a Controlled Degree of Task-Adaptive Conditioning,0.21223259494764404
+Deep Lifetime Clustering,0.249282683104876
+PassNet: Learning pass probability surfaces from single-location labels. An architecture for visually-interpretable soccer analytics,0.30161203737869086
+Few-Shot One-Class Classification via Meta-Learning,0.22345192853011644
+Simple is Better: Training an End-to-end Contract Bridge Bidding Agent without Human Knowledge,0.24429776044674176
+Rethinking deep active learning: Using unlabeled data at model training,0.22410208909753554
+Why Convolutional Networks Learn Oriented Bandpass Filters: A Hypothesis,0.23966755978835183
+Deep Expectation-Maximization in Hidden Markov Models via Simultaneous Perturbation Stochastic Approximation,0.19952115846584684
+Learning to Contextually Aggregate Multi-Source Supervision for Sequence Labeling,0.2788388266872231
+Disentangled Cumulants Help Successor Representations Transfer to New Tasks,0.23661318624427785
+Adversarial training with perturbation generator networks,0.18274436942766106
+Batch Normalization has Multiple Benefits: An Empirical Study on Residual Networks,0.24124417202900483
+A TWO-STAGE FRAMEWORK FOR MATHEMATICAL EXPRESSION RECOGNITION,0.15688133004773966
+The Sooner The Better: Investigating Structure of Early Winning Lottery Tickets,0.19345820183926793
+How Well Do WGANs Estimate the Wasserstein Metric?,0.16841721062126147
+A Group-Theoretic Framework for Knowledge Graph Embedding,0.23081220245411607
+Accelerated Information Gradient flow,0.20055321765374798
+Time2Vec: Learning a Vector Representation of Time,0.25209019746968014
+MGP-AttTCN: An Interpretable Machine Learning Model for the Prediction of Sepsis,0.21594971114880018
+NESTED LEARNING FOR MULTI-GRANULAR TASKS,0.278775843324912
+Attack-Resistant Federated Learning with Residual-based Reweighting,0.3137507860232938
+Efficient generation of structured objects with Constrained Adversarial Networks,0.20307244615108305
+Subgraph Attention for Node Classification and Hierarchical Graph Pooling,0.1470478574676798
+Learning from Partially-Observed Multimodal Data with Variational Autoencoders,0.2927888898152491
+A Simple Approach to the Noisy Label Problem Through the Gambler's Loss,0.17596806641752585
+Contextual Temperature for Language Modeling,0.20439449188106204
+MULTI-LABEL METRIC LEARNING WITH BIDIRECTIONAL REPRESENTATION DEEP NEURAL NETWORKS,0.16121348520554235
+Unsupervised Data Augmentation for Consistency Training,0.4089081978272701
+Representation Learning Through Latent Canonicalizations,0.38537395043955985
+Molecular Graph Enhanced Transformer for Retrosynthesis Prediction,0.1422000723577285
+Frequency Pooling: Shift-Equivalent and Anti-Aliasing Down Sampling,0.20139778535861935
+Where is the Information in a Deep Network?,0.39413431712568125
+FleXOR: Trainable Fractional Quantization,0.28036508047050174
+Mixture Distributions for Scalable Bayesian Inference,0.15234120557737768
+On the Invertibility of Invertible Neural Networks,0.26896435405386715
+Meta Learning via Learned Loss,0.24323146216268238
+Demonstration Actor Critic,0.3039798149452918
+Moniqua: Modulo Quantized Communication in Decentralized SGD,0.2809686126222198
+Min-Max Optimization without Gradients: Convergence and Applications to Adversarial ML,0.26373719107830196
+Wyner VAE: A Variational Autoencoder with Succinct Common Representation Learning,0.29624269764174993
+Improving Confident-Classifiers For Out-of-distribution Detection,0.29610460126106103
+FINBERT:  FINANCIAL SENTIMENT ANALYSIS   WITH PRE-TRAINED LANGUAGE MODELS,0.21587024450079118
+Rethinking Neural Network Quantization,0.12789435426804258
+A Simple and Scalable Shape Representation for 3D Reconstruction,0.21521587582701382
+Learning Cross-Context Entity Representations from Text,0.3087240455263452
+Unsupervised Few Shot Learning via Self-supervised Training,0.2003505142290664
+Confidence-Calibrated Adversarial Training: Towards Robust Models Generalizing Beyond the Attack Used During Training,0.32484523376935437
+Optimal Unsupervised Domain Translation,0.2770595701880531
+Efficient Wrapper Feature Selection using Autoencoder and Model Based Elimination,0.17914647932124614
+Training Data Distribution Search with Ensemble Active Learning,0.3833926604907063
+Coresets for Accelerating Incremental Gradient Methods,0.38775693449204796
+Gaussian MRF Covariance Modeling for Efficient Black-Box Adversarial Attacks,0.22099573327258767
+How can we generalise learning distributed representations of graphs?,0.21120025869145181
+Graph Residual Flow for Molecular Graph Generation,0.2738478810262272
+Regularizing Deep Multi-Task Networks using Orthogonal Gradients,0.1774569966588143
+Blending Diverse Physical Priors with Neural Networks,0.3004162690205212
+The Detection of Distributional Discrepancy for Text Generation,0.16624401390208302
+Samples Are Useful? Not Always: denoising policy gradient updates using variance explained,0.2557105659365413
+Continual Learning via Principal Components Projection,0.21753625570415697
+Iterative Deep Graph Learning for Graph Neural Networks,0.3020007217406043
+Training Deep Neural Networks by optimizing over nonlocal paths in hyperparameter space,0.2425725710967434
+Amata: An Annealing Mechanism for Adversarial Training Acceleration,0.27792124315125777
+Sparsity Meets Robustness: Channel Pruning for the Feynman-Kac Formalism Principled Robust Deep Neural Nets,0.1999326602521178
+Perceptual Generative Autoencoders,0.22073742157606727
+Deep symbolic regression,0.190054536204256
+Task-Relevant Adversarial Imitation Learning,0.40471055710270004
+"Imitation Learning of Robot Policies using Language, Vision and Motion",0.2245394878433445
+Why Learning of Large-Scale Neural Networks Behaves Like Convex Optimization,0.14886019877472056
+Information Theoretic Model Predictive Q-Learning,0.2645842717591089
+HaarPooling: Graph Pooling with Compressive Haar Basis,0.22572486408936815
+Neural-Guided Symbolic Regression with Asymptotic Constraints,0.20595110896468552
+Handwritten Amharic Character Recognition System Using Convolutional Neural Networks,0.10477677279948036
+Deep Relational Factorization Machines,0.168218505412013
+DO-AutoEncoder: Learning and Intervening Bivariate Causal Mechanisms in Images,0.18358985252693563
+Disentangling Trainability and Generalization in Deep Learning,0.2604776755308664
+Versatile Anomaly Detection with Outlier Preserving Distribution Mapping Autoencoders,0.2738725801974036
+DeepPCM: Predicting Protein-Ligand Binding using Unsupervised Learned Representations,0.15088382166119382
+Learning transitional skills with intrinsic motivation,0.1826932163075914
+Preventing Imitation Learning with Adversarial Policy Ensembles,0.17539792217928746
+Noisy Machines: Understanding noisy neural networks and enhancing robustness to analog hardware errors using distillation,0.22817083201379096
+Mutual Information Maximization for Robust Plannable Representations,0.303945657686748
+Removing input features via a generative model to explain their attributions to classifier's decisions,0.32828730732469463
+Gauge Equivariant Spherical CNNs,0.4011241526807022
+Relation-based Generalized Zero-shot Classification with the Domain Discriminator on the shared representation,0.301861770528779
+Machine Truth Serum,0.20865766724231385
+A Gradient-Based Approach to Neural Networks Structure Learning,0.1791064153233544
+Learning Generative Models using Denoising Density Estimators,0.2661562136770754
+NPTC-net: Narrow-Band Parallel Transport Convolutional Neural Network on Point Clouds,0.21748845873976613
+Attributed Graph Learning with 2-D Graph Convolution,0.22785814536056234
+Pareto Optimality in No-Harm Fairness,0.278775843324912
+Conditional generation of molecules from disentangled representations,0.24542296800406943
+Overparameterized Neural Networks Can Implement Associative Memory,0.21046224084033943
+TinyBERT: Distilling BERT for Natural Language Understanding,0.26526560557086687
+Cross Domain Imitation Learning,0.33992148713013887
+Multi-source Multi-view Transfer Learning in Neural Topic Modeling with Pretrained Topic and Word Embeddings,0.19291728382551526
+Natural Image Manipulation for Autoregressive Models Using Fisher Scores,0.3299122072783826
+SPECTRA: Sparse Entity-centric Transitions,0.33781334774157606
+Attentive Sequential Neural Processes,0.26239009774852223
+Generative Latent Flow,0.2908073760264492
+"Farkas layers: don't shift the data, fix the geometry",0.20947278065123157
+STABILITY AND CONVERGENCE THEORY FOR LEARNING RESNET: A FULL CHARACTERIZATION,0.2642620844109125
+Universal approximations of permutation invariant/equivariant functions by deep neural networks,0.22579595756839516
+Context-aware Attention Model for Coreference Resolution,0.10549379567481726
+A Random Matrix Perspective on Mixtures of Nonlinearities in High Dimensions,0.46199101562427936
+CaptainGAN: Navigate Through Embedding Space For Better Text Generation,0.2895386866803181
+A Novel Analysis Framework of Lower Complexity Bounds for Finite-Sum Optimization,0.2617067577236434
+Reducing Computation in Recurrent Networks by Selectively Updating State Neurons,0.3227740670428612
+Selective Brain Damage: Measuring the Disparate Impact of Model Pruning,0.339061930808929
+Deep exploration by novelty-pursuit with maximum state entropy,0.17618445885626072
+Smart Ternary Quantization,0.15933410975003218
+Alleviating Privacy Attacks via Causal Learning,0.2818806443094055
+Generalized Domain Adaptation with Covariate and Label Shift CO-ALignment,0.2818900685465897
+Deeper Insights into Weight Sharing in Neural Architecture Search,0.1987951289243322
+Combining MixMatch and Active Learning for Better Accuracy with Fewer Labels,0.31644221194207245
+Perceptual Regularization: Visualizing and Learning Generalizable Representations,0.2600241631193328
+Attention Forcing for Sequence-to-sequence Model Training,0.22302160712080793
+Transferable Recognition-Aware Image Processing,0.36031965265787
+NeuralUCB: Contextual Bandits with Neural Network-Based Exploration,0.3048799874803979
+Quantized Reinforcement Learning (QuaRL),0.26545618497978135
+CNAS: Channel-Level Neural Architecture Search,0.19493035751864027
+Measuring Numerical Common Sense: Is A Word Embedding Approach Effective?,0.17590563585757293
+Semi-supervised Semantic Segmentation using Auxiliary Network,0.20119929676112072
+DeepSFM: Structure From Motion Via Deep Bundle Adjustment,0.2648379631897987
+A Base Model Selection Methodology for Efficient Fine-Tuning,0.1597143094692049
+Localized Meta-Learning: A PAC-Bayes Analysis for Meta-Leanring Beyond Global Prior,0.32008087234180055
+Searching to Exploit Memorization Effect in Learning from Corrupted Labels,0.22414125151661718
+Attention over Phrases,0.20258800664442098
+Retrospection: Leveraging the Past for Efficient Training of Deep Neural Networks,0.2881649534088987
+Improving Dirichlet Prior Network for Out-of-Distribution Example Detection,0.21071110640054624
+Continual Density Ratio Estimation (CDRE): A new method for evaluating generative models in continual learning,0.23001087966425393
+Prune or quantize? Strategy for Pareto-optimally low-cost and accurate CNN,0.18185548260193815
+Concise Multi-head Attention Models,0.17895647035563916
+A Finite-Time Analysis of  Q-Learning with Neural Network Function Approximation,0.3063230870347806
+SCELMo: Source Code Embeddings from Language Models,0.21991035400753087
+GraphMix: Regularized Training of Graph Neural Networks for Semi-Supervised Learning,0.20842148251683265
+Neural networks with motivation,0.21383995278307028
+Measuring causal influence with back-to-back regression: the linear case,0.3046993525603954
